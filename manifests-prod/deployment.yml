@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rehomefrontend-prod-deploy
+  namespace: prod
+  labels:
+    app: rehomefrontend-prod
+spec:
+  replicas: 3 # number of pods
+  selector:
+    matchLabels:
+      app: rehomefrontend-prod
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: rehomefrontend-prod
+    spec:
+      containers:
+        - name: rehomefrontend-prod
+          image: acrrehomedev.azurecr.io/rehomefrontend-prod
+          imagePullPolicy: Always
+          ports:
+            - name: http
+              containerPort: 4000
+              protocol: TCP
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 4000
+            initialDelaySeconds: 10
+            timeoutSeconds: 120
+            periodSeconds: 30
+            successThreshold: 1
+            failureThreshold: 5
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 4000
+            initialDelaySeconds: 10
+            timeoutSeconds: 30
+            periodSeconds: 60
+            successThreshold: 1
+            failureThreshold: 5
+          envFrom:
+            - configMapRef:
+                name: environment-variables-ux

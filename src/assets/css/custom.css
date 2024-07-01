@@ -1,0 +1,264 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navBarTitles {
+    @apply navitems-breakpoint:block hidden font-medium hover:text-[#032760] whitespace-nowrap;
+  }
+
+  .mobileMenuTitles {
+    @apply hover:text-blue-900 whitespace-nowrap;
+  }
+
+  .pageMargins {
+    @apply md:px-20 ipad-pro:px-12 ipad:px-3 px-3;
+  }
+
+  .navbar-position {
+    @apply sticky top-0 z-40 bg-white h-[75px] py-5 flex items-center justify-between;
+  }
+
+  .navItems {
+    @apply flex grid-cols-9 md:gap-7 lg:gap-5 gap-4 items-center
+  }
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  scrollbar-width: none
+}
+
+body .grecaptcha-badge {
+  visibility: visible !important;
+  z-index: 9999999999 !important;
+  bottom: 145px !important;
+}
+
+.noScrollBar::-webkit-scrollbar {
+  display: none;
+}
+
+.noScrollBar input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 8px !important;
+  height: 3px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e0e0 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a0a0a0 !important;
+  border-radius: 10px !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1267B1 !important;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.scrollTop {
+  position: fixed;
+  bottom: 90px !important;
+  right: 35px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1267B1;
+  border-radius: 50%;
+  background-size: 40px;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+  z-index: 20;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.scrollTop.active {
+  bottom: 40px;
+  visibility: visible;
+  opacity: 1;
+}
+
+.hideNav.active {
+  display: none;
+}
+
+.activenav {
+  background-color: white;
+  color: black;
+  border-radius: 7px;
+}
+
+.marker {
+  background-image: url('../images/marker.svg');
+  background-size: cover;
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.buymarker {
+  background-image: url('../images/buymarker.svg');
+  background-size: cover;
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.rentmarker {
+  background-image: url('../images/rentmarker.svg');
+  background-size: cover;
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.offplanmarker {
+  background-image: url('../images/offplanmarker.svg');
+  background-size: cover;
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.sponsoredmarker {
+  background-image: url('../images/sponsoredmarker.svg');
+  background-size: cover;
+  width: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  width: 120px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  padding: 0 !important;
+  border-radius: 7px !important;
+}
+
+.mapbox-improve-map,
+.mapboxgl-ctrl-attrib-inner,
+.mapboxgl-ctrl-logo,
+.mapboxgl-popup-close-button {
+  display: none !important;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.17em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 0.83em;
+}
+
+h6 {
+  font-size: 0.67em;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.unorderedList li {
+  list-style-type: circle;
+}
+
+.ql-editor {
+  height: 100%;
+  overflow-y: auto;
+  width: 100%;
+  height: 22rem !important;
+}
+
+.input-phone-number input:focus {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.surveyPhone .PhoneInputInput {
+  background-color: #F7F7F7;
+}
+
+.scroll-parent {
+  position: relative;
+  width: 100%;
+  height: 11rem;
+  overflow-x: hidden;
+}
+
+.scroll-element {
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  animation: primary 30s linear infinite;
+}
+
+.primary {
+  animation: primary 30s linear infinite;
+}
+
+.secondary {
+  animation: secondary 30s linear infinite;
+}
+
+@keyframes primary {
+  from {
+    left: 0%;
+  }
+
+  to {
+    left: -100%;
+  }
+}
+
+@keyframes secondary {
+  from {
+    left: 100%;
+  }
+
+  to {
+    left: 0%;
+  }
+}
+
+#credential_picker_container {
+  top: 80px !important
+}

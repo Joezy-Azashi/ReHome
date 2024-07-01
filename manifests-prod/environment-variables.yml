@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: environment-variables-ux
+  namespace: prod
+  labels:
+    app: rehomefrontend
+data:
+  NODE_ENV: "production"
+  API_BASEURL: "http://rehomeapi-svc.prod.svc.cluster.local:3000"
+  FRONTEND_URL: "https://www.rehomeafrica.com"

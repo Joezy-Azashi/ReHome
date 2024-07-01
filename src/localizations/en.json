@@ -1,0 +1,2071 @@
+{
+    "translation": {
+        "languages": {
+            "en": "English",
+            "fr": "French"
+        },
+        "lang_code": "en",
+        "currency": {
+            "title": "Currency",
+            "ghs": "GHS",
+            "usd": "USD"
+        },
+        "cookie": {
+            "accept": "Accept",
+            "decline": "Decline",
+            "description": "We use essential cookies to make our site work. With your consent. we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking \"Accept\" you agree to our website's cookie use as described in our cookie policy."
+        },
+        "share": "Phone number copied to clipboard",
+        "shareurl": "URL copied to clipboard",
+        "shareerror": "Copy error",
+        "loginprompt": {
+            "note1": "Do you have an account?",
+            "note2": "or",
+            "note3": "to contact a broker",
+            "note4": "to sell your property",
+            "note5": "to use the mortgage calculator"
+        },
+        "amenities": {
+            "gym": "Gym",
+            "wifi": "Wifi",
+            "parking": "Parking",
+            "pool": "Pool",
+            "air_condition": "Air Condition",
+            "security": "Security",
+            "washer_and_dryer": "Washer and Dryer",
+            "water_tank": "Water Tank",
+            "water_well": "Water Well",
+            "borehole": "Borehole",
+            "pet_friendly": "Pet Friendly",
+            "guest_room": "Guest Room",
+            "play_ground": "Play Ground",
+            "car_park": "Car Park",
+            "library": "Library",
+            "restaurant": "Restaurant",
+            "bar": "Bar",
+            "bath": "Bathroom",
+            "bed": "Bedroom"
+        },
+        "passwordsuggestion": {
+            "charlength": "At least 8 characters long",
+            "case": "Upper-case and lower-case letters (a-z, A-Z),",
+            "specialchar": "At least one number and at least one special character (e.g. +, $, !, ?, #)"
+        },
+        "logout": "Logout",
+        "phonevalidationalert": "Invalid. Phone number is less than 10 digits",
+        "navbar": {
+            "buy": "Buy",
+            "rent": "Rent",
+            "shortlet": "Shortlet",
+            "sell": "Sell",
+            "offplan": "Off-Plan",
+            "mortgage": "Mortgage",
+            "findanAgent": "Find a Broker",
+            "blog": "Blog",
+            "login": "LOGIN",
+            "signup": "SIGN UP",
+            "notifications": "Notifications",
+            "newlisting": "New Listing",
+            "developer": "Developer"
+        },
+        "aboutus": {
+            "banner": {
+                "maintext1": "About ReHome",
+                "subtext": "Welcome to ReHome, your premier destination for finding houses and apartments in Ghana. As an MLS platform, we provide a comprehensive database of property listings, whether you're looking to buy, rent, or find a short-term let. We are here to assist you every step of the way. Trust ReHome to seamlessly guide you towards your dream property in Ghana."
+            },
+            "services": {
+                "title": "OUR SERVICES",
+                "service1": {
+                    "title": "Property<br/>Management",
+                    "note": "Enjoy stress-free property management services from our exclusive list of experienced professionals."
+                },
+                "service2": {
+                    "title": "Mortgage<br/>Assistance",
+                    "note": "Get all the mortgage assistance you need to start your home acquisition journey."
+                },
+                "service3": {
+                    "title": "Consulting<br/>Services",
+                    "note": "Invest in success with our real estate consulting services."
+                },
+                "service4": {
+                    "title": "Home<br/>Buying/Selling",
+                    "note": "Home buying or selling doesn't have to be a complex process - get expert advice today!"
+                }
+            },
+            "moreofyou": {
+                "title": "MORE OF YOU, LESS OF US",
+                "note": "At ReHome, we have a defining culture of doing much more than just selling real estate. As a top home selling and renting organization, we share the culture of serving each other, our communities and our planet. Our mission, vision, values and culture differentiate us as industry innovators and leaders."
+            },
+            "ceomessage": {
+                "note": "I honestly believe that the number one thing we can do to improve neighborhoods, communities and individuals is help people own a home."
+            },
+            "contactus": {
+                "title": "Contact Us",
+                "fullname": "Fullname",
+                "fullnameplaceholder": "Enter Fullname",
+                "email": "Email",
+                "emailplaceholder": "Enter Email",
+                "phone": "Phone",
+                "message": "Message",
+                "messageplaceholder": "How can we help you?",
+                "send": "Send"
+            },
+            "members": {
+                "title": "Members"
+            }
+        },
+        "menu": {
+            "manageAccount": "Manage Account",
+            "mainsite": "Main Site"
+        },
+        "authpage": {
+            "title": "Premium Experience",
+            "subtext": "Seamless experience whiles finding the next big thing, <br />your own property. It’s easy, fast and affordable"
+        },
+        "login": {
+            "login": "Login",
+            "email": "Email",
+            "password": "Password",
+            "createAccount": "Sign up",
+            "emailPlaceholder": "Enter email",
+            "passwordPlaceholder": "Enter password",
+            "forgotPassword": "Forgot Password?",
+            "connect": "Or connect with:",
+            "signInApple": "Apple",
+            "signInGoogle": "Google",
+            "signInFacebook": "Facebook",
+            "validation": {
+                "emptyfields": "All fields are required",
+                "success": "Login successful",
+                "fail": "Login failed"
+            }
+        },
+        "signuptype": {
+            "choosetype": "Choose User Type",
+            "buyerRenter": "Buyer/Renter",
+            "admin": "Admin",
+            "buyer": "Buyer",
+            "customer": "Customer",
+            "agent": "Broker",
+            "realtor": "Realtor",
+            "realtorBroker": "Realtor/Broker",
+            "developer": "Developer",
+            "broker": "Broker",
+            "apply": "Apply"
+        },
+        "forgotpassword": {
+            "title": "Forgot Password",
+            "instruction": "Enter your email below and we will send you a link to reset your password",
+            "email": "Email",
+            "placeholder": "Enter Email",
+            "button": "Send",
+            "back": "Back",
+            "validation": {
+                "emptyfield": "Email field is required",
+                "email": "Email is not valid",
+                "success": "An activation message has been sent to your e-mail address.",
+                "fail": "Error"
+            }
+        },
+        "resetpassword": {
+            "title": "Reset Password",
+            "instruction": "Fill the form below to reset your password",
+            "newpassword": "New Password",
+            "confirmpassword": "Confirm Password",
+            "passwordplaceholder": "Enter new password",
+            "confirmpasswordplaceholder": "Confirm password",
+            "button": "Reset",
+            "back": "Back to homepage",
+            "validation": {
+                "emptyfields": "All fields are required",
+                "passwordnotequal": "Password and confirm password are not the same",
+                "weakpassword": "Password is too weak",
+                "success": "Your password has been successfully reset",
+                "fail": "Error"
+            }
+        },
+        "createaccount": {
+            "enterEmail": "Email",
+            "choosePassword": "Choose a Password",
+            "confirmPassword": "Confirm Password",
+            "emailPlaceholder": "Enter email",
+            "passwordPlaceholder": "Enter password",
+            "reapeatPasswordPlaceholder": "Confirm Password",
+            "passwordIntruction": "Password must be at least 8 characters and contain numbers, letters and signs",
+            "signupButton": "Sign up",
+            "nextButton": "Next",
+            "agreement1": "By signing up, you agree to our",
+            "agreement2": "and",
+            "agreement3": "You will also be subscribed to our mailing list.",
+            "connect": "Or connect with",
+            "signUpApple": "Sign up with Apple",
+            "signInGoogle": "Google",
+            "signInFacebook": "Facebook",
+            "noemailerror": "Please allow email access for signup",
+            "suspenderror": "This account is suspended, Please contact ReHome for assistance",
+            "validation": {
+                "emptyemail": "Invalid. Enter a valid email",
+                "emptypasswordfields": "All fields are required",
+                "emptyPassfields": "Invalid. Provide password fields",
+                "choosetype": "Choose account type",
+                "email": "Email is not valid",
+                "name": "Name is required",
+                "passwordnotequal": "Password and confirm password do not match",
+                "weakpassword": "Password is too weak",
+                "success": "Your account has been successfully created"
+            }
+        },
+        "comingsoon": {
+            "back": "Take me back",
+            "title": "Coming Soon",
+            "home": "Take me home"
+        },
+        "dashboard": {
+            "logout": "Logout",
+            "recentactivities": "Recent<br /> Activities",
+            "profile": {
+                "profile": "Profile",
+                "myprofile": "My Profile",
+                "completeprofile": "Your profile is completed",
+                "uncompletedprofile": "Your profile is not completed",
+                "changepasswordbtn": "Change Password",
+                "profiletitle": "Personal Details",
+                "firstname": "First name",
+                "lastname": "Last name",
+                "firstnameplaceholder": "Enter first name",
+                "lastnameplaceholder": "Enter last name",
+                "email": "Email",
+                "contact": "Phone Number",
+                "contactplaceholder": "Enter contact",
+                "gender": "Gender",
+                "city": "City",
+                "cityplaceholder": "Enter city",
+                "edit": "Edit",
+                "save": "Save",
+                "updatesuccess": "Profile updated successfully"
+            },
+            "profileimage": {
+                "title": "Upload Profile Image",
+                "instruction": "Click here to upload profile image",
+                "upload": "Upload",
+                "cancel": "Cancel",
+                "validimage": "A valid image must be selected",
+                "validdoc": "A valid document must be selected",
+                "uploadsuccess": "Profile image uploaded successfully"
+            },
+            "changepassword": {
+                "title": "Change Password",
+                "instruction": "Fill the form below to change your password",
+                "currentpassword": "Current Password",
+                "currentpasswordplaceholder": "Enter current password",
+                "newpassword": "New Password",
+                "newpasswordplaceholder": "Enter new password",
+                "confirmpassword": "Confirm Password",
+                "confirmpasswordplaceholder": "Confirm password",
+                "changepasswordbtn": "Save",
+                "back": "Back To Profile",
+                "validation": {
+                    "emptyfields": "All fields are required",
+                    "passwordnotequal": "Password and confirm password are not the same"
+                }
+            },
+            "wishlist": {
+                "wishlist": "Wishlist",
+                "manage": "Manage your Wishlist here",
+                "added": "Property added to wishlist",
+                "removed": "Property removed from wishlist",
+                "add": "Add to wishlist",
+                "remove": "Remove from wishlist",
+                "nowishlist": {
+                    "title": "No Wishlist",
+                    "note": "You have no wishlist"
+                },
+                "button": {
+                    "send": "Send",
+                    "cancel": "Cancel"
+                },
+                "email": {
+                    "title": "Send Email",
+                    "description": "Send emails to selected properties",
+                    "no_message_error": "Please type a message!",
+                    "no_property_error": "Please select properties!",
+                    "messageplaceholder": "Enter message here"
+                }
+            },
+            "listings": {
+                "title": "Listings",
+                "manage": "Manage your Listings here",
+                "add": "Add Listing"
+            },
+            "customemail": {
+                "form_incomplete": "Please complete the form",
+                "title": "Custom Email Generator",
+                "description": "Create custom ai generated email by completing the form",
+                "token": "email generation left",
+                "tone": "Tone of Email",
+                "casual": "Casual",
+                "formal": "Formal",
+                "entrepreneurial": "Entrepreneurial",
+                "informative": "Informative",
+                "professional": "Professional",
+                "friendly": "Friendly",
+                "urgent": "Urgent",
+                "direct": "Direct",
+                "personal": "Personal",
+                "intention": "Intention of Email",
+                "general_introduction": "General Introduction",
+                "property_proposal": "Property Proposal",
+                "property_invitation": "Property Invitation",
+                "seasonal_greetings": "Seasonal Greetings",
+                "event_recap": "Event Recap",
+                "custom": "Custom",
+                "language": "Language of Email",
+                "english": "English",
+                "french": "French",
+                "spanish": "Spanish",
+                "portuguese": "Portuguese",
+                "length": "Length of Email",
+                "short": "Short",
+                "medium": "Normal",
+                "long": "Long",
+                "additional_info": "Enter additional information",
+                "generate": "Generate Email",
+                "property": "Select a Property",
+                "describe_season": "Please describe the season in question",
+                "describe_event": "Please describe the event in question"
+            },
+            "messages": {
+                "messages": "Messages",
+                "manage": "Manage your messages here"
+            },
+            "notifications": {
+                "notifications": "Notifications",
+                "manage": "Manage your notifications here",
+                "nonotification": "No Notifications",
+                "message": "You have no notifications"
+            }
+        },
+        "agentdashboard": {
+            "onboardingincomplete": {
+                "title": "Onboarding Incomplete",
+                "paragraph1": "It appears that you have not completed the onboarding process. Some features of our site may be inaccessible until onboarding is complete.",
+                "paragraph2": "Finish onboarding to gain full access to all of our site’s features and services. If you receive this message in error, reach out to <b>appeals@rehomeafrica.com</b>",
+                "button": "Complete Onboarding"
+            },
+            "sidebar": {
+                "home": "Home",
+                "listings": "Listings",
+                "subscription": "Subscription",
+                "stats": "Stats",
+                "messages": "Messages",
+                "salesdb": "Customer Search",
+                "enterprisedb": "Enterprise Search",
+                "continueonboading": "Continue <br/> Onboarding",
+                "gethelp": "Get Help"
+            },
+            "home": {
+                "recentlistings": "Recent Listings",
+                "addlisting": "Add Listing",
+                "addoffplan": "Add Off-Plan",
+                "viewmyprofile": "View my profile",
+                "myproperties": "My Properties",
+                "forrent": "For Rent",
+                "forsale": "For Sale",
+                "sold": "Sold",
+                "rented": "Rented",
+                "clicksthisweek": "Clicks this week",
+                "viewsthisweek": "Reaches this week",
+                "allleads": "All leads",
+                "alltimestat": "All Time Statistics",
+                "click": "Cost Per<br/> Click",
+                "lead": "Cost Per<br/> Lead",
+                "view": "Cost Per<br/> Reach",
+                "nolisting": "You have no property listings",
+                "rules": "Rules for Uploading"
+            },
+            "editprofile": {
+                "personaldetails": {
+                    "title": "Personal Details",
+                    "firstname": "Firstname",
+                    "lastname": "Lastname",
+                    "phone": "Phone Number",
+                    "email": "Email",
+                    "profession": "Profession",
+                    "social": "Social Media",
+                    "changepassword": "Change Password",
+                    "nar": "N.A.R. Number"
+                },
+                "businessdetails": {
+                    "title": "Business Details",
+                    "businessname": "Business Name",
+                    "businessphone": "Business Phone Number",
+                    "businessaddress": "Business Address",
+                    "businessemail": "Business Email",
+                    "businesslocation": "Business Location",
+                    "servicearea": "Business Service Area",
+                    "businessdescription": "Business Description",
+                    "save": "Save"
+                }
+            },
+            "listing": {
+                "edit": "Edit",
+                "selectall": "Select All",
+                "publishselected": "Publish Selected",
+                "unpublishselected": "Unpublish Selected",
+                "published": "Published",
+                "publishalert": "Successful! Property will be live in 5 minutes",
+                "removepublish": "Listing updated successfully",
+                "promoteselected": "Promote Selected",
+                "selectitem": "Select an item from the list",
+                "cantpromote": "One or more of the properties is/are already promoted",
+                "publishdialog": {
+                    "title": "Property Upload Agreement",
+                    "note": "By uploading properties on ReHome, I confirm that I have read and adhered to the rules and guidelines. I guarantee the accuracy of information, high-quality images, compliance with legal requirements, and respect for intellectual property. I understand that ReHome reserves the right to review and moderate listings. Any violation may lead to property removal, account suspension or termination.",
+                    "clickhere": "Click here",
+                    "toread": "to read the Rules for Uploading Properties."
+                },
+                "titles": {
+                    "tab1": "All Listings",
+                    "tab2": "For Rent",
+                    "tab3": "For Sale",
+                    "tab4": "Off-Plan",
+                    "tab5": "Past Transactions",
+                    "tab6": "Draft",
+                    "tab7": "Sponsored listing"
+                },
+                "tablehead": {
+                    "date": "Upload Date",
+                    "rentedsold": "Rented/Sold Date",
+                    "name": "Property Name",
+                    "type": "Property Type",
+                    "advertising": "Advertising",
+                    "status": "Status",
+                    "edit": "Edit",
+                    "select": "Select"
+                },
+                "promotion": {
+                    "title": "Why Promote?",
+                    "paragraph1": "At ReHome, we understand that as a real estate broker, your time is valuable and you want to get the most out of your marketing efforts. That's why we offer the option to promoted your listings on our website. When you pay to promote a listing, it will be featured prominently on our site, increasing the visibility of your property to potential buyers.",
+                    "paragraph2": "This can lead to a faster sale and ultimately save you time and efforts in the long run. Plus, with our targeted advertising algorithms, you can be confident that your property is being seen by the right audience. Investing in the promotion of your listing on ReHome is a smart move that can pay off in the end.",
+                    "summary": {
+                        "title": "Summary",
+                        "item": "Items",
+                        "entercode": "Enter discount code",
+                        "promocode": "Promo Code",
+                        "apply": "Apply",
+                        "subtotal": "Subtotal",
+                        "total": "Total",
+                        "back": "Back to plans",
+                        "proceed": "Pay with PayStack"
+                    },
+                    "packages": {
+                        "per": "Listing",
+                        "save": "Save",
+                        "viewcart": "View Cart",
+                        "summary": {
+                            "title": "Summary"
+                        },
+                        "starter": {
+                            "title": "Starter",
+                            "note": "The starter plan gives you access to reach Thousands of potential buyers for <b>3 days</b> Straight advertising on ReHome"
+                        },
+                        "standard": {
+                            "title": "Standard",
+                            "note": "The standard plan gives you access to reach Thousands of potential buyers for <b>6 days</b> Straight advertising on ReHome"
+                        },
+                        "pro": {
+                            "title": "Pro",
+                            "note": "The pro plan gives you access to reach Thousands of potential buyers for <b>9 days</b> Straight advertising on ReHome"
+                        }
+                    }
+                }
+            },
+            "subscription": {
+                "details": {
+                    "title": "Flexible Plans",
+                    "note": "No contracts, No hidden charges",
+                    "updatecard": "Update Card",
+                    "packages": {
+                        "agentlight": {
+                            "title": "Free",
+                            "point1": "Broker Badge",
+                            "point2": "Admin Account",
+                            "point3": "1 Property Listings",
+                            "note": "See promotional packages for details on Google ads. <br/><br/>Valid for your <b>First Month only</b>"
+                        },
+                        "agentplus": {
+                            "title": "Broker Plan",
+                            "point1": "Broker Badge",
+                            "point2": "Admin Account",
+                            "point3": "Profile on Broker Page",
+                            "point4": "5 Property Listings",
+                            "point5": "Special Mortgage Rates",
+                            "point6": "Sell Form Appearance",
+                            "note": "See promotional packages for details on Google ads. <br/><br/><b>GHS 799 (Includes Tax)</b><br/><br/>Billed for 3 Months: GHS 2199"
+                        },
+                        "realtor": {
+                            "title": "Realtor Plan",
+                            "point1": "Realtor Badge (with N.A.R. Number)",
+                            "point2": "Admin Account",
+                            "point3": "Profile on Broker Page",
+                            "point4": "Unlimited Listings",
+                            "point5": "24/7 Service Hotline",
+                            "point6": "Special Mortgage Rates",
+                            "point7": "Sell Form Appearance",
+                            "point8": "Features on Social Media",
+                            "point9": "Customer Search",
+                            "point10": "AI Generated Emails",
+                            "note": "See promotional packages for details on Google ads. <br/><br/><b>GHS 1499 (Includes Tax)</b><br/><br/>Billed for 3 Months: GHS 4199"
+                        },
+                        "developer": {
+                            "title": "Developer Plan",
+                            "point1": "Developer Badge",
+                            "point2": "Admin Account",
+                            "point3": "Profile on Broker Page",
+                            "point4": "Unlimited Listings",
+                            "point5": "24/7 Service Hotline",
+                            "point6": "Special Mortgage Rates",
+                            "point7": "Features on Social Media",
+                            "point8": "Customer Search",
+                            "point9": "AI Generated Emails",
+                            "point10": "Exclusive Search Category",
+                            "point11": "Relationship Manager",
+                            "note": "See promotional packages for details on Google ads. <br/><br/><b>GHS 1499 (Includes Tax)</b><br/><br/>Billed for 3 Months: GHS 4199"
+                        }
+                    },
+                    "selection": {
+                        "title1": "Select a",
+                        "title2": "new plan",
+                        "title3": "to upgrade",
+                        "note": "Upgrading gives you access to new account type"
+                    }
+                },
+                "packagecards": {
+                    "month": "3 Month",
+                    "currentplan": "Current Plan",
+                    "expires": "Expires",
+                    "discountplaceholder": "Promo Code",
+                    "discountbutton": "Apply",
+                    "payplaceholder": "Total",
+                    "paybutton": "Pay with PayStack",
+                    "confirm": "Confirm",
+                    "subscriptionchange": "Subscription changed successfully",
+                    "agentlight": {
+                        "title": "Free",
+                        "note": "The Free Plan is ideal for customers just starting out. This Plan provides customers with basic marketing tools for property visibility and leads generation.",
+                        "amount": "First Month only"
+                    },
+                    "agentplus": {
+                        "title": "Broker",
+                        "note": "The Broker Plan is ideal for customers with up to 5 properties. This Plan provides customers with enhanced marketing tools for higher property visibility and leads generation."
+                    },
+                    "realtor": {
+                        "title": "Realtor",
+                        "note": "The Realtor Plan is highly recommended for customers with unlimited properties. This Plan provides customers with all requisite marketing tools to maximize visibility and leads generation."
+                    },
+                    "developer": {
+                        "title": "Developer",
+                        "note": "The Developer Plan offers a unique marketing advantage for real estate developers. This Plan allows developers to promote their developments in addition to their individual property listings for optimal visibility and leads generation."
+                    }
+                }
+            },
+            "stats": {
+                "myproperties": "My Properties",
+                "forrent": "For Rent",
+                "forsale": "For Sale",
+                "year": "Year",
+                "clicksthisweek": "Clicks this week",
+                "viewsthisweek": "Reaches this week",
+                "allleads": "All leads",
+                "alltimestat": "All Time Statistics",
+                "click": "Cost Per<br/> Click",
+                "lead": "Cost Per<br/> Lead",
+                "view": "Cost Per<br/> Reach",
+                "chartclicks": "Clicks",
+                "chartreach": "Reaches",
+                "noleads": "No Leads",
+                "leads": {
+                    "newleads": "New Leads",
+                    "closedleads": "Closed Leads",
+                    "view": "View",
+                    "close": "Close",
+                    "open": "Open",
+                    "backdrop": {
+                        "contacttitle": "Property Contact Form",
+                        "fullname": "Full Name",
+                        "email": "Email",
+                        "phone": "Phone Number",
+                        "message": "Message",
+                        "location": "Location",
+                        "question": "Questions"
+                    }
+                }
+            },
+            "addlisting": {
+                "alerts": {
+                    "charlength": {
+                        "propertyname": "Property name must be more than 10 characters",
+                        "location": "Select location",
+                        "description": "Description must be between 10 to 300 characters",
+                        "draftsave": "Provide at least property name before you save as draft"
+                    },
+                    "propertytype": "Please select property type",
+                    "gps": "Select GPS location on map",
+                    "transactiontype": "Select transaction type",
+                    "propertystatus": "Select property status",
+                    "propertysize": "Enter property size",
+                    "propertysizevalue": "Property size must be greater than 0",
+                    "constructionyear": "Enter year of construction",
+                    "furnishing": "Select furnishing option",
+                    "totalroombath": "Total number of rooms and baths must be 1 or more",
+                    "cost": "Enter cost of property",
+                    "costvalue": "Cost of property must be greater than 0",
+                    "currency": "Select currency",
+                    "delete": "Are you sure you want to delete this property?",
+                    "delete_draft": "Are you sure you want to delete this draft?",
+                    "changeplan": "You are about to change your subscription plan. Do you wish to proceed?"
+                },
+                "button": {
+                    "add": "Add",
+                    "back": "Back",
+                    "continue": "Continue",
+                    "proceed": "Proceed",
+                    "submit": "Submit Listing",
+                    "toproperties": "Take me to the property",
+                    "addmore": "Add more Listings",
+                    "cancel": "Cancel",
+                    "delete": "Delete",
+                    "update": "Update"
+                },
+                "steps": {
+                    "title": "Add Listing",
+                    "edit": "Edit Listing",
+                    "basic": "Basic Info",
+                    "config": "Property Config",
+                    "amenities": "Amenities",
+                    "features": "Unique Features",
+                    "gallery": "Gallery",
+                    "payment": "Payment Details",
+                    "attachment": "Attachment",
+                    "save": "Save as draft",
+                    "update": "Update draft",
+                    "delete": "Delete Property",
+                    "delete_draft": "Delete Draft"
+                },
+                "tab1": {
+                    "title": "Describe Your Property",
+                    "note": "Help buyers find the right information by providing all the important details needed to also sell fast",
+                    "name": "Property Name",
+                    "nameplaceholder": "Name must be more than 10 characters",
+                    "propertytype": "Property Type",
+                    "apartment": "Apartment",
+                    "house": "House",
+                    "land": "Land",
+                    "commercial": "Commercial",
+                    "shortlet": "Shortlet",
+                    "development": "Off Plan",
+                    "location": "Location",
+                    "pinlocation": "Pin Location by clicking on the exact place on the map",
+                    "describe": "Describe your property",
+                    "describeplaceholder": "Description must be more than 10 characters",
+                    "country": {
+                        "label": "Country",
+                        "ghana": "Ghana"
+                    }
+                },
+                "tab2": {
+                    "title": "Property Configuration",
+                    "note": "Help buyers find the right information by providing all the important details needed to also sell fast",
+                    "transactiontype": "Transaction Type",
+                    "rent": "Rent",
+                    "sale": "Sale",
+                    "status": "Property Status",
+                    "available": "Available",
+                    "sold": "Sold",
+                    "rented": "Rented",
+                    "size": "Size of Property",
+                    "size_land": "Size of Land",
+                    "sizeplaceholder": "Square meter",
+                    "contructionyear": "Year of Construction",
+                    "none": "None",
+                    "contructionyearplaceholder": "Year of Construction",
+                    "furnishing": "Furnishing Options",
+                    "furnished": "Furnished",
+                    "unfurnished": "Unfurnished",
+                    "shortlet": "Do you accept shortlets",
+                    "yes": "Yes",
+                    "no": "No",
+                    "rooms": "Total Number of Bedrooms",
+                    "baths": "Total Number of Bathrooms"
+                },
+                "tab3": {
+                    "title": "Amenities",
+                    "note": "Tell buyers about all the amenities available in this property to help them decide faster",
+                    "search": "Search amenities",
+                    "popular": "Popular Amenities"
+                },
+                "tab4": {
+                    "title": "Unique features",
+                    "note": "Select features below by clicking on the feature of enter to add",
+                    "enter": "Enter Unique Feature",
+                    "alert": "Please provide a feature"
+                },
+                "tab5": {
+                    "title": "Property photos",
+                    "note": "Upload quality photos to represent what your property has to offer. Good pictures can Increase customer interest",
+                    "clickhere": "Click to add photos",
+                    "size": "Max FileSize: 1MB, Max Photos: 12",
+                    "image": "Upload 3D image",
+                    "imagenote": "Max FileSize: 1MB",
+                    "video": "Upload Video",
+                    "videonote": "Max FileSize: 5MB",
+                    "upload": "Uploading property photos/videos",
+                    "maximages": "You can upload a maximum of 12 photos only"
+                },
+                "tab6": {
+                    "title": "Payment Details",
+                    "note": "Specify your accepted payment methods",
+                    "hide": "Hide Price",
+                    "cost": "Cost of Property",
+                    "currency": "Currency",
+                    "usd": "USD",
+                    "ghs": "GHS",
+                    "taxes": "Taxes",
+                    "vat": "VAT/Tax Applicable",
+                    "daily": "per night",
+                    "weekly": "weekly",
+                    "monthly": "per month",
+                    "yearly": "annually",
+                    "one_time": "",
+                    "onetime": "One time",
+                    "from": "From"
+                },
+                "tab7": {
+                    "title": "Attachments and Consent",
+                    "note": "Almost there! Upload your documents for this property and Consent to upload property",
+                    "landtitle": "Land Title",
+                    "buildingpermit": "Building Permit",
+                    "plan": "House Plan",
+                    "alertlandtitle": "Uploading land title. Please wait...",
+                    "alertpermit": "Uploading Building Permit. Please wait..",
+                    "alertplan": "Uploading House Plan. Please wait..."
+                },
+                "tab8": {
+                    "title": "LISTING SUCCESSFULLY SUBMITTED",
+                    "publishnote": "Publish property to make it visible on the property page",
+                    "publish": "Publish",
+                    "note": "Check your dashboard for notification when approved"
+                }
+            },
+            "addoffplan": {
+                "alerts": {
+                    "charlength": {
+                        "propertyname": "Property name must be more than 10 characters",
+                        "yearofcontruction": "Select year of construction",
+                        "location": "Select location",
+                        "description": "Description must be between 10 to 300 characters",
+                        "draftsave": "Provide at least property name before you save as draft"
+                    },
+                    "addunit": "Add at least one unit",
+                    "maxunit": "You can't add more than 10 units",
+                    "propertytype": "Please select property type",
+                    "gps": "Select GPS location on map",
+                    "transactiontype": "Select transaction type",
+                    "propertystatus": "Select property status",
+                    "propertysize": "Enter property size",
+                    "propertysizevalue": "Unit size must be greater than 0",
+                    "constructionyear": "Enter year of construction",
+                    "furnishing": "Select furnishing option",
+                    "totalroombath": "Total number of rooms and baths must be 1 or more",
+                    "cost": "Enter cost of property",
+                    "costvalue": "Cost of unit must be greater than 0",
+                    "currency": "Select currency",
+                    "delete": "Are you sure you want to delete this property?"
+                },
+                "button": {
+                    "add": "Add",
+                    "back": "Back",
+                    "continue": "Continue",
+                    "submit": "Submit Listing",
+                    "update": "Update",
+                    "toproperties": "Take me to the property",
+                    "addmore": "Add more Listings",
+                    "cancel": "Cancel",
+                    "delete": "Delete"
+                },
+                "steps": {
+                    "title": "Add Off-plan",
+                    "edit": "Edit Off-plan",
+                    "basic": "Basic Info",
+                    "config": "Property Config",
+                    "amenities": "Amenities",
+                    "features": "Unique Features",
+                    "gallery": "Gallery",
+                    "payment": "Payment Details",
+                    "attachment": "Attachment",
+                    "save": "Save as draft",
+                    "delete": "Delete Property"
+                },
+                "tab1": {
+                    "title": "Describe Your Property",
+                    "note": "Help buyers find the right information by providing all the important details needed to also sell fast",
+                    "name": "Property Name",
+                    "nameplaceholder": "Name must be more than 10 characters",
+                    "yearofconstruction": "Year of construction",
+                    "apartment": "Apartment",
+                    "development": "Development",
+                    "land": "Land",
+                    "commercial": "Commercial",
+                    "shortlet": "Shortlet",
+                    "location": "Location",
+                    "pinlocation": "Pin Location by clicking on the exact place on the map",
+                    "describe": "Describe your property",
+                    "describeplaceholder": "Description must be more than 10 characters"
+                },
+                "tab2": {
+                    "emptyfields": "All fields are required",
+                    "title": "Units and Pricing",
+                    "rooms": "Bedroom",
+                    "baths": "Bathroom",
+                    "currency": "Currency",
+                    "ghs": "GHS",
+                    "usd": "USD",
+                    "hide": "Hide Price",
+                    "price": "Price",
+                    "month": "month",
+                    "squarefoot": "Square Foot",
+                    "transactiontype": "Transaction Type",
+                    "rent": "Rent",
+                    "sale": "Sale",
+                    "propertystatus": "Property Status",
+                    "available": "Available",
+                    "sold": "Sold",
+                    "rented": "Rented",
+                    "upload": "Upload Floor Plan",
+                    "click": "Click to add photos",
+                    "size": "Max FileSize: 1MB, Max Photos: 12",
+                    "uploading": "Uploading Floor plan",
+                    "addmore": "Add units",
+                    "nounit": "No unit added",
+                    "createdunits": "Created Units"
+                },
+                "tab3": {
+                    "title": "Unique features",
+                    "note": "Select features below by clicking on the feature of enter to add",
+                    "enter": "Enter Unique Feature",
+                    "add": "Add",
+                    "alert": "Please provide a feature"
+                },
+                "tab4": {
+                    "title": "Amenities",
+                    "note": "Tell buyers about all the amenities available in this property to help them decide faster",
+                    "search": "Search amenities",
+                    "popular": "Popular Amenities"
+                },
+                "tab5": {
+                    "title": "Property photos",
+                    "note": "Upload quality photos to represent what your property has to offer. Good pictures can Increase customer interest",
+                    "clickhere": "Click to add photos",
+                    "size": "Max FileSize: 1MB, Max Photos: 12",
+                    "image": "Upload 3D image",
+                    "imagenote": "Max FileSize: 1MB",
+                    "video": "Upload Video",
+                    "videonote": "Max FileSize: 5MB",
+                    "upload": "Uploading property photos/videos",
+                    "maximages": "You can upload a maximum of 12 photos only"
+                },
+                "tab6": {
+                    "title": "Attachments and Consent",
+                    "note": "Almost there! Upload your documents for this property and Consent to upload property",
+                    "landtitle": "Land Title",
+                    "buildingpermit": "Building Permit",
+                    "plan": "House Plan",
+                    "alertlandtitle": "Uploading land title. Please wait...",
+                    "alertpermit": "Uploading Building Permit. Please wait..",
+                    "alertplan": "Uploading House Plan. Please wait..."
+                },
+                "tab7": {
+                    "title": "LISTING SUCCESSFULLY SUBMITTED",
+                    "note": "Check your dashboard for notification when approved"
+                }
+            }
+        },
+        "verify": {
+            "title": "Verify your email address",
+            "instruction": "Check your mail to verify your ReHome account.",
+            "button": "Resend Email",
+            "verifynote": "Hi! Click here to verify email",
+            "success": "Email verified successfully",
+            "login": "Login and click the verification link in your email again to verify your account"
+        },
+        "onboard": {
+            "next": "Next",
+            "back": "Back",
+            "save": "Save",
+            "draftmessage": "Your information has been saved for later",
+            "close": "Finish",
+            "draft": "Save for later",
+            "emptyfields": "All fields are required",
+            "validemail": "Enter a valid business email",
+            "sidenote": {
+                "welcome": "Welcome,",
+                "note": "We are pleased you decided to join us and we hope you make the most out of all the tools we have curated for you to maximise profit on ReHome.com",
+                "fill": "Fill this form to begin"
+            },
+            "tab1": {
+                "title": "Personal Details",
+                "firstname": "First Name",
+                "firstnameplaceholder": "Enter first name",
+                "lastname": "Last Name",
+                "lastnameplaceholder": "Enter last name",
+                "phone": "Phone Number",
+                "phoneplaceholder": "Enter phone number",
+                "email": "Email Address",
+                "profilepicture": "Upload Profile Picture",
+                "ghanacard": "Upload Ghana Card",
+                "clickbrowse": "Click to browse",
+                "nar": "N.A.R. Number",
+                "narplaceholder": "Enter N.A.R. Number",
+                "nardisclaimer": "Disclaimer: Without your National Association of Realtors number, you will be listed as a Broker"
+            },
+            "tab2": {
+                "title": "Business Details",
+                "businessname": "Business Name*",
+                "businessnameplaceholder": "Full business name",
+                "businessphone": "Phone Number*",
+                "address": "Address",
+                "addressplaceholder": "Business Address*",
+                "businessemail": "Business Email*",
+                "location": "Location",
+                "locationplaceholder": "Business location",
+                "serviceareas": "Service Areas*",
+                "businessregistration": "Business Registration*",
+
+                "businessdescription": "Business Description",
+                "businessdescriptionplaceholder": "Enter Business description",
+                "businessphoneplaceholder": "Enter Phone Number",
+                "businessfax": "Fax Number",
+                "businessfaxplaceholder": "Enter Fax Number",
+                "zipplaceholder": "Postal Code",
+                "cityplaceholder": "City*",
+                "stateplaceholder": "State",
+                "countryplaceholder": "Country",
+                "businesscount": "Company Size",
+                "businesscountplaceholder": "Enter Number of Employees",
+                "businessposition": "Company Title",
+                "businesspositionplaceholder": "Enter Office title e.g. CEO",
+                "facebook": "Facebook Link",
+                "instagram": "Instagram Link",
+                "twitter": "Twitter Link",
+                "linkedIn": "LinkedIn Link"
+            },
+            "tab3": {
+                "title": "Package",
+                "heading": "Choose a plan to begin",
+                "heading1": "Choose a plan",
+                "heading2": "to begin",
+                "heading3": "Continue with the Free Plan"
+            },
+            "tab4": {
+                "title": "Welcome Aboard!",
+                "note": "Click finish to go to your Dashboard and begin uploading your first property"
+            }
+        },
+        "gethelp": {
+            "contactus": {
+                "title": "Send us a message",
+                "subject": "Subject",
+                "message": "Message",
+                "send": "Send",
+                "emptyfields": "All fields are required",
+                "messagesent": "Message sent successfully",
+                "messagenotsent": "Message not sent"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "tab1": {
+                "title": "Is ReHome a real estate agency?",
+                "note": "No, ReHome is a real estate platform dedicated to helping buyers and sellers connect for mutually beneficial transactions."
+            },
+            "tab2": {
+                "title": "Are the brokers on this platform verified?",
+                "note": "Yes, ReHome verifies all brokers on its platform by requiring  documents relating to their profession before their properties are listed on the website."
+            },
+            "tab3": {
+                "title": "Does ReHome provide mortgage services?",
+                "note": "ReHome does not provide mortgage financing directly. However, we offer support services to help you secure mortgage financing in Ghana."
+            },
+            "tab4": {
+                "title": "How do I make comparisons between properties that I am interested in?",
+                "note": "You can make comparisons between properties that you are interested in by using our wishlist feature. This feature allows you to save your favorite properties so that you can compare the properties' features to help you make a decision. To save a property to your wishlist, simply click on the \"Save\" button when viewing a property's details on our website. You can then view your saved properties by navigating to the \"Wishlist\" section on your account dashboard."
+            }
+        },
+        "appealforfraud": {
+            "title": "Appeal for Fraud",
+            "note1": "If you have reason to believe someone has posted a property that belongs to you on this platform. Please send an email to <b>appeals@rehomeafrica.com</b> containing the link to the property and the relevant documents that show you, in fact, have the rights to this property",
+            "note2": "<ul><li>Log into your account on our website or create an account if you do not have one.</li><li>Find the property or broker that you believe is fraudulent and click on the \"Report\" button.</li><li>Fill out the form provided with as much information as possible about the issue, including any evidence of fraud that you have.</li><li>Submit the form and wait for a response from our team.</li></ul>",
+            "note3": "Please note that it is important to provide as much detail as possible, including any evidence or documentation, to help us investigate the issue. We take all reports of fraud seriously and will investigate the matter promptly.",
+            "note4": "Alternatively, you can contact us through our customer support service or email us at info@rehomeafrica.com to report your incident.",
+            "note5": "We appreciate your help in keeping our platform safe and trustworthy for all users."
+        },
+        "accountverification": {
+            "title": "Account Verification",
+            "note1": " As a real estate broker, it is important to further verify your account on ReHome to ensure the accuracy and authenticity of the information on your profile. This process will take a minimum of one week to complete as it requires manual review by our team. If you have signed up and it has been longer than a week since you submitted your verification request, you can send an email to <b>appeals@rehomeafrica.com</b> for further assistance.",
+            "note2": " By verifying your account, you are helping to maintain the integrity and credibility of the ReHome platform. Having a fully verified account on ReHome can benefit you in several ways. It can increase the trust and confidence of potential clients and help you stand out in a crowded market. It can also provide you with access to exclusive features and resources on the platform that may not be available to unverified users. By verifying your account, you can enhance your professional reputation and make the most of your presence on the ReHome platform."
+        },
+        "banner": {
+            "mainText": "Finding your dream home is now simple.",
+            "subText": "Browse our quality and affordable properties to find your dream home today.",
+            "subText_buy": "Browse Our Selection of Properties for Sale.",
+            "subText_rent": "Renting Made Easy: Explore, Select, Enjoy.",
+            "subText_shortlet": "Find Your Perfect Short-Term Rental.",
+            "subText_off-plan": "Explore Off-plan Properties for Smart Investments.",
+            "searchPlaceholder": "Enter Neighbourhood or City",
+            "featuredproperties": "Featured Properties",
+            "completeprofile": {
+                "title": "Complete your profile",
+                "paragraph1": "It appears that you have not completed your user profile. Keeping a complete user profile helps to have a better experience on the ReHome platform.",
+                "paragraph2": "Spend some few minutes of your time to complete your user profile.",
+                "button": "Complete Profile"
+            }
+        },
+        "sectionone": {
+            "buy": "Buy a Home",
+            "rent": "Rent a Home",
+            "sell": "Sell a Home",
+            "buysubText": "Click the button below to search for houses for sale in Ghana.",
+            "rentsubText": "Click now and see new properties for rent in Ghana.",
+            "sellsubText": "Join now and sell your properties to a wide network of Ghanaian house buyers abroad.",
+            "button": "Start Here"
+        },
+        "sectiontwo": {
+            "maintext": "Make the right deals.<br /> Reach the right Customers",
+            "subtextone": "Don't miss out on that perfect sale! Reach a wider audience from around the world with our highly proficient tools to help you close deals. Click the button below to get started!",
+            "subtexttwo": "Quality leads for your sales pipeline",
+            "subtextthree": "World class property management tools to help you sell",
+            "subtextfour": "Cheapest rates for brokers to advertise properties",
+            "button": "Sign Up"
+        },
+        "sectionthree": {
+            "maintext": "Download the ReHome app today!",
+            "subtext": "Experience a hassle-free property search with more additional tools to help you find the perfect home."
+        },
+        "footer": {
+            "menu": "Menu",
+            "buy": "Buy",
+            "rent": "Rent",
+            "sell": "Sell",
+            "shortlet": "Shortlet",
+            "offplan": "Off-Plan",
+            "mortgage": "Mortgage",
+            "findanAgent": "Find a Broker",
+            "blog": "Blog",
+            "company": "Company",
+            "aboutus": "About us",
+            "careers": "Careers",
+            "help": "Help",
+            "advertise": "Advertise",
+            "contactus": "Contact us",
+            "legal": "Legal",
+            "privacypolicy": "Privacy Policy",
+            "termsconditions": "Terms & Conditions",
+            "legalhelp": "Help",
+            "faq": "FAQ",
+            "datarequest": "Data Request",
+            "download": "Download the ReHome Apps"
+        },
+        "filter": {
+            "selectall": "Select All",
+            "search": "Enter a location",
+            "search2": "Search",
+            "transactiontype": {
+                "forsale": "For Sale",
+                "sale": "Sale",
+                "forrent": "For Rent",
+                "rent": "Rent",
+                "offplan": "Off-Plan"
+            },
+            "location": {
+                "title": "Location",
+                "radius": "Radius"
+            },
+            "propertytype": {
+                "title": "Property Type",
+                "all": "All",
+                "houses": "House",
+                "house": "House",
+                "apartment": "Apartment",
+                "apartments": "Apartment",
+                "commercial": "Commercial",
+                "shortlets": "Shortlet",
+                "lands": "Land",
+                "land": "Land",
+                "development": "Development"
+            },
+            "bedbath": {
+                "title": "Bed & Bath",
+                "bedrooms": "Bedrooms",
+                "bathrooms": "Bathrooms",
+                "bath": "Bath",
+                "any": "Any"
+            },
+            "budget": {
+                "title": "Budget",
+                "heading1": "Choose a currency",
+                "heading2": "Set Budget",
+                "minprice": "Min price",
+                "maxprice": "Max price"
+            },
+            "sort": {
+                "title": "Sort",
+                "mostrecent": "Most Recent",
+                "recent": "Most Recent",
+                "popularity": "Popularity",
+                "price": "Price",
+                "size": "Size",
+                "orderby": "Order",
+                "ascending": "Ascending",
+                "descending": "Descending"
+            },
+            "more": {
+                "title": "More",
+                "titleMobile": "Filter",
+                "heading1": "Size(sqm)",
+                "select": "Select Amenities"
+            }
+        },
+        "buyrent": {
+            "showing": "Showing {{start}} - {{end}} of {{number}} results",
+            "nolisting": "No property listings were found for this search",
+            "recommendedlisting": "Recommended listings close to your location",
+            "notfinding": "Not finding what you want?",
+            "requestproperty": "Can't find what you want?",
+            "sponsored": "Sponsored",
+            "map": "Map",
+            "list": "List"
+        },
+        "sell": {
+            "banner": {
+                "maintext": "Sell Your Home",
+                "subtext": "Open your doors to new business possibilities and connect with house hunters in Ghana, USA, UK, France and Netherlands.",
+                "question": "Are you a Broker, Realtor, or Developer?",
+                "button": "Sign Up"
+            },
+            "section1": {
+                "card1": {
+                    "title": "Sell your own properties (FSBO)",
+                    "button": "Start Here"
+                },
+                "card2": {
+                    "title": "Sell using a ReHome realtor",
+                    "button": "Start Here"
+                },
+                "card3": {
+                    "title": "Become a ReHome realtor",
+                    "button": "Start Here"
+                }
+            },
+            "section2": {
+                "title": "Why you should sell on ReHome?",
+                "note": "Our unique marketing approach ensures that your listed properties are visible to prospective buyers in Accra, Tema, and other locations in Ghana. You are one step closer to making a sale when you list your properties on ReHome."
+            },
+            "marketing": {
+                "title": "Marketing Your Property",
+                "note": "Our ReHome brokers have access to advanced technology and marketing strategies, and have the knowledge and expertise to help sell your home. A few highlights include:",
+                "grid1": {
+                    "title": "Online Listing for Your Home",
+                    "note": "Online listings feature information specific to each property and the surrounding area, as well as a property image. An invaluable marketing tool, the property image gives potential buyers an instant preview, which saves time and visually sparks interest."
+                },
+                "grid2": {
+                    "title": "Mobile Presence",
+                    "note": "Prospective buyers will be able to access the same great search technology available on our website while on the go! Our home search app is available for both iOS and Android devices, increasing the opportunity for your home to be shown to potential buyers anywhere and at any time."
+                },
+                "grid3": {
+                    "title": "Advanced Marketing",
+                    "note": "We have advanced marketing and digital strategies that can help drive more traffic to your listing. The ReHome network of brokers is one of the largest in the country and can be a great resource for spreading the word about your property by word of mouth, online marketing, and other advertising opportunities."
+                }
+            },
+            "form": {
+                "title": "To begin, please fill the form below",
+                "location": "Where is the property located",
+                "age": "How many years old is your property?",
+                "propertytype": "Type of property",
+                "transactiontype": "Transaction Type",
+                "paymenttype": "Payment Type",
+                "timeline": "Timeline of Sale",
+                "selectagent": "Select a broker or brokers to help you make a quick sale",
+                "thankyou": "Thank you for choosing us",
+                "endnote": "Your information has been shared with the selected Broker. The Broker will contact you for any further clarifications.",
+                "next": "Next",
+                "save": "Save",
+                "close": "Close",
+                "emptyfield": "This field is required",
+                "clickagent": "Select and Broker"
+            }
+        },
+        "singleproperty": {
+            "verified": "Verified Broker",
+            "gallery": "Gallery",
+            "viewphotos": "View {{number}} photo(s)",
+            "viewplan": "View plan",
+            "tab1": {
+                "title": "Share",
+                "propertyname": "Property Name",
+                "price": "Price",
+                "size": "Property size",
+                "sizeLand": "Land size",
+                "bedrooms": "Bedrooms",
+                "bathrooms": "Bathrooms",
+                "datelisted": "Date Listed"
+            },
+            "tab2": {
+                "title": "Save",
+                "popup": {
+                    "title": "Create Wishlist",
+                    "note": "Curate to your taste. Easily share Wishlist with family and friends",
+                    "start": "Start",
+                    "cancel": "Cancel"
+                }
+            },
+            "tab3": {
+                "title": "Overview",
+                "year": "Year of Construction",
+                "estimate": "ReHome Estimate",
+                "descriptiontitle": "Description",
+                "description": "Property Description",
+                "houseplan": "House Plan",
+                "buttons": {
+                    "schedule": "Schedule a Tour",
+                    "verify": "Property Verification",
+                    "mortgage": "Mortgage Facilities"
+                }
+            },
+            "tab4": {
+                "title": "Amenities",
+                "note": "There are {{number}} amenities available in this facility"
+            },
+            "tab5": {
+                "title": "Features",
+                "note": "There are {{number}} property features available in this facility"
+            },
+            "tab6": {
+                "title": "Map",
+                "note": "Property Location"
+            },
+            "tab7": {
+                "title": "QR Code",
+                "note": "Property QR Code"
+            }
+        },
+        "offplan": {
+            "title": "Off-Plan<br/>Properties",
+            "tag": "Development",
+            "nodata": "No Off-plan properties were found",
+            "developer": "Developer",
+            "itemtag": "Off<br/>Plan",
+            "singleoffplan": {
+                "sidebar": {
+                    "contact": {
+                        "title": "Contact",
+                        "developernote": "Send Developer an email",
+                        "agentnote": "Send Broker an email",
+                        "call": "Call",
+                        "validphone": "Enter a valid phone number",
+                        "error": "Error Sending message, Try again later",
+                        "whatsapp": "WhatsApp",
+                        "button": "Send",
+                        "sendto": "Send to",
+                        "emptyfields": "All fields are required",
+                        "checkone": "Select at least one checkbox or enter a message",
+                        "p1": "Hi, my name is",
+                        "p2": "and I am interested in your",
+                        "p3": "I am contacting you from",
+                        "p4": "and you can reach me on",
+                        "p5": " and ",
+                        "p6": "Is this property available?",
+                        "p7": "What payment terms are available?",
+                        "p8": "When can I see this property?"
+                    },
+                    "share": "Share",
+                    "save": "Save",
+                    "saved": "Saved",
+                    "pictures": "Pictures",
+                    "video": "Video",
+                    "3dtour": "3D Tour"
+                },
+                "mainheader": {
+                    "tab1": "General Details",
+                    "tab2": "Units & Pricing",
+                    "tab3": "Developer Details"
+                },
+                "buttons": {
+                    "schedule": "Schedule a Tour",
+                    "verify": "Property Verification",
+                    "mortgage": "Mortgage Facilities",
+                    "nodocs": "No verified documents"
+                },
+                "general": {
+                    "verifydocs": {
+                        "title": "Documents verified by ReHome",
+                        "landtitle": "Land Title",
+                        "buildingpermit": "Building Permit",
+                        "houseplan": "House Plan"
+                    },
+                    "tab1": {
+                        "title": "About",
+                        "about": "About this off-plan",
+                        "location": "Location"
+                    },
+                    "tab2": {
+                        "title": "Amenities",
+                        "note": "There are {{number}} amenities available in this facility"
+                    },
+                    "tab3": {
+                        "title": "Features",
+                        "note": "There are {{number}} features available in this facility"
+                    },
+                    "tab4": {
+                        "title": "Point Of Interest"
+                    }
+                },
+                "pricing": {
+                    "tab1": {
+                        "title": "Studio",
+                        "estimate": "ReHome Estimate",
+                        "completion": "Year of Completion",
+                        "view": "View Floor Plans",
+                        "bedroom": "Bedroom",
+                        "notavailable": "Not Available",
+                        "sizenotavailable": "Size Not Available",
+                        "yearnotavailable": "Year Not Available"
+                    }
+                }
+            }
+        },
+        "mortgage": {
+            "calculator": {
+                "circle": {
+                    "title": "Mortgage Calculator",
+                    "note": "Need a mortgage? Use our mortgage calculator to make an informed decision"
+                },
+                "form": {
+                    "year": "year",
+                    "alert": "All fields are required",
+                    "q1": "1. Where are you in the process?",
+                    "q1placeholder": "Select",
+                    "q1option1": "Just Researching",
+                    "q1option2": "SPA(Sales and purchase agreement)",
+                    "q2": "2. Enter location of property",
+                    "q3": "3. Enter home value",
+                    "q4": "4. Enter your monthly salary",
+                    "q5": "5. Select repayment tenure",
+                    "q6": "6. Enter initial deposit on property",
+                    "q7": "7. How old are you?",
+                    "button": "Calculate",
+                    "needhelp": "Need Help? Email us through"
+                },
+                "result": {
+                    "eligible": "You are eligible",
+                    "noteligible": "You are not eligible",
+                    "noteligiblereason": "You are not eligible because the monthly payment amount is more than 30% of your salary",
+                    "monthlypayment": "Monthly Payment",
+                    "disclaimer": "Disclaimer",
+                    "note": "This calculator is provided for informational purposes only. You should not make any decisions based simply on the information provided",
+                    "rate": "Current interest rate",
+                    "banks": "Mortgage Banks",
+                    "specialist": "Get in Touch With Mortgage Specialist",
+                    "startover": "Start Over"
+                }
+            },
+            "banner": {
+                "maintext": "Better Mortgage For your Dream Home",
+                "subtext": "Your home is more than a place to live. It’s an investment in a better future. We’ll help you unlock a better home and keep it working for you.",
+                "button": "Mortgage Calculator"
+            },
+            "types": {
+                "tab1": {
+                    "title": "First-Time Buyers",
+                    "note": "A first home is an exciting time. Professional mortgage advice is a great place to start."
+                },
+                "tab2": {
+                    "title": "Mortgage Refinancing",
+                    "note": "Take advantage of lower rates or unlock equity in your home for investments"
+                },
+                "tab3": {
+                    "title": "Mortgage loans",
+                    "note": "We have access to a wide range of financing options to meet your home improvement needs."
+                }
+            },
+            "allinone": {
+                "maintext": "All-in-one<br/>is Better",
+                "subtext": "We’re streamlining and simplifying how you find, buy, sell, refinance, and close a loan",
+                "card": {
+                    "title": "Better Cover+",
+                    "point1": "Better Cover | Insurance",
+                    "point2": "Better Settlement Services | Title and Closing"
+                }
+            },
+            "learnmore": {
+                "note": "Buying a new home? Find out the ways you can benefit from a mortgage.",
+                "button": "Learn More"
+            },
+            "goodthings": {
+                "title": "All the good things that comes with owning a home",
+                "button": "Find More",
+                "tab1": {
+                    "title": "Home Insurance",
+                    "note": "List of Best <br />Home insurers"
+                },
+                "tab2": {
+                    "title": "Home Improvement",
+                    "note": "Best Home<br /> Improvement"
+                },
+                "tab3": {
+                    "title": "Furniture",
+                    "note": "Best Furniture<br/>Companies"
+                }
+            }
+        },
+        "findanagent": {
+            "banner": {
+                "maintext": "ReHome Brokers",
+                "subtext": "ReHome provides you with trusted brokers and certified realtors who would help you buy or rent an apartment, townhouse or luxury house in Ghana.",
+                "button": "Become A Broker"
+            },
+            "mainpage": {
+                "clear": "Clear Search",
+                "searchplaceholder": "Enter Broker's Name or Location",
+                "all": "All",
+                "agent": "Broker",
+                "realtor": "Realtor",
+                "developer": "Developer",
+                "noagent": "No Result",
+                "testimonials": {
+                    "title": "Testomonials",
+                    "say": "What our clients say",
+                    "testimony": "In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a product. The term “testimonial” most commonly applies to the sales-pitches attributed to ordinary citizens, whereas the word “endorsement” usually applies to pitches by celebrities"
+                }
+            },
+            "singleagent": {
+                "message": "Message",
+                "button": "Send",
+                "contact": "CONTACT",
+                "properties": "LISTED PROPERTIES",
+                "completeprofile": "Complete your profile to enable you contact a broker",
+                "emptymessage": "Message field is required",
+                "messagesent": "Message sent successfully",
+                "messagenotsent": "Message not sent",
+                "contactagent": "Contact",
+                "contactagentforprice": "Contact broker for Price"
+            }
+        },
+        "help": {
+            "banner": "How can we help?",
+            "title": "Explore the Knowledge Base",
+            "looking": "Looking to Advertise?",
+            "cantfind": "Can't find an answer?",
+            "types": {
+                "agent": {
+                    "title": "Broker/Realtor/Developer",
+                    "note": "We're here to help you succeed in real estate. From finding leads to closing deals, our platform provides the tools you need to streamline your workflow and connect with motivated buyers and sellers. Check out the FAQs section below for more details and answers to frequently asked questions.",
+                    "questions": {
+                        "q1": {
+                            "title": "How do I list my properties on the website?",
+                            "answer": "To list your properties on the website, you have to first create an account. To do that, navigate to the menu bar and click the “Sign Up” button. Choose the appropriate user type and create an account with your email address."
+                        },
+                        "q2": {
+                            "title": "What types of properties can I list on your website?",
+                            "answer": "Our platform is dedicated to residential real estate and allows you to list houses, apartments, off-plan units, and lands."
+                        },
+                        "q3": {
+                            "title": "How can I manage my listings on your website?",
+                            "answer": "You can manage your listings by creating an account and accessing the dashboard, where you can add, edit, archive, or remove listings as needed."
+                        },
+                        "q4": {
+                            "title": "How can I get more visibility for my listings on your website?",
+                            "answer": "You can get more visibility for your listings by optimizing them with accurate and detailed information, including high-quality photos. You can also promote your listings for higher visibility."
+                        },
+                        "q5": {
+                            "title": "How can I  promote my listings for higher visibility?",
+                            "answer": "You can get more visibility by promoting your listings via your ReHome account. Simply sign in to your account and navigate to “listings”. Select the listing(s) you would like to enhance visibility for and click the “Promote Selected” button. A prompt will pop up with a list of promotion options to choose from. Select the preferred option and click the “View Cart” button. You will be redirected to a payment page to complete the process. You can also consider upgrading your existing subscription for enhanced visibility."
+                        },
+                        "q6": {
+                            "title": "What is the cost of listing my properties on your website?",
+                            "answer": "We offer different subscription packages with varying features and prices. For instance, the Broker Light Plan is ideal for customers with up to five property listings. The Broker Plus Plan is ideal for customers with up to 20 property listings. The Realtor Plan offers customers unlimited property listings while the Developer Plan is ideal for real estate developers looking to promote their development projects for optimum results."
+                        },
+                        "q7": {
+                            "title": "Can I receive notifications when a potential buyer or tenant contacts me about my listing?",
+                            "answer": "Yes, you will receive a lead record which will automatically trigger an in-app notification and email notification."
+                        },
+                        "q8": {
+                            "title": "How can I track the performance of my listings on your website?",
+                            "answer": "You can track the performance of your listings by accessing the stats dashboard, where you can view metrics such as clicks, reach and leads."
+                        },
+                        "q9": {
+                            "title": "How can I access leads generated from my listings on your website?",
+                            "answer": "You can access all leads generated on ReHome from your stats page. The leads will also show up in the inbox of the email address connected to your ReHome account."
+                        }
+                    }
+                },
+                "seekers": {
+                    "title": "Home Seekers",
+                    "note": "Welcome, home seekers! Find your dream home with our platform's advanced search features and comprehensive listings. Our knowledgeable staff can guide you through the process, and our intuitive platform makes it easy to save your favorite listings and get new property alerts. Check out our FAQs below.",
+                    "questions": {
+                        "q1": {
+                            "title": "How do I search for properties on the website?",
+                            "answer": "To search for properties on the website, you can use the search bar to type in your preferred location. You can additionally refine your search by transaction type, property type, budget, number of bedrooms, sort query and more. You can also use the map feature to search for properties in a specific area."
+                        },
+                        "q2": {
+                            "title": "What are the types of properties available on the website?",
+                            "answer": "The website has a variety of residential properties that include detached and semi-detached houses, apartments, townhomes and lands."
+                        },
+                        "q3": {
+                            "title": "Do you own any of the properties on the website?",
+                            "answer": "No, we don't. We are a real estate hub that connects property seekers with owners and brokers. Our website serves as a platform for property owners and brokers to list their properties, while prospective buyers or renters can browse the listings and contact the owners or brokers directly."
+                        },
+                        "q4": {
+                            "title": "Is it possible to save a list of my favorite properties on the website?",
+                            "answer": "Yes, it is possible to save a list of your preferred property selections on our website. To do this, simply create a ReHome account and log in. Then, navigate to the property listing you're interested in and click on the \"Add to wishlist\" button. This will add the property to your saved list, which you can access at any time by clicking on the \"[descriptive name]\" tab in your account."
+                        },
+                        "q5": {
+                            "title": "What are the different payment options available when buying or renting a property?",
+                            "answer": "Payment options may include cash, bank transfer, and sometimes installment plans or mortgages. Payment options may vary depending on the seller or broker."
+                        },
+                        "q6": {
+                            "title": "How do I find a broker on the website?",
+                            "answer": "To find a broker on our website, navigate to the menu bar and click on the \"Find A Broker\" menu. You can browse through our list of verified brokers, view their profiles, and contact your preferred brokers directly."
+                        },
+                        "q7": {
+                            "title": "What are the current property prices in Ghana?",
+                            "answer": "Property prices in Ghana vary depending on the location, type, and condition of the property. You can browse the website to get an idea of current property prices or contact any of our verified brokers for more specific information."
+                        },
+                        "q8": {
+                            "title": "How do I contact the seller or broker of a property?",
+                            "answer": "You will be required to log in with the email address you registered with on the ReHome website. First, click the contact icon on the listing page. You will be redirected to the login page to create an account. If you have an existing account, log in with your credentials. The contact details will appear once this has been completed."
+                        },
+                        "q9": {
+                            "title": "Will I be charged a fee for creating a ReHome account?",
+                            "answer": "No. Account registrations for individuals are absolutely free!"
+                        },
+                        "q10": {
+                            "title": "Do you provide real estate support services?",
+                            "answer": "Yes, we offer a range of real estate support services at a fee. Our services include property management, professional photography and videography, virtual tours, home staging services, interior design, property advisory services, etc."
+                        },
+                        "q11": {
+                            "title": "Do you provide mortgage financing?",
+                            "answer": "No, we don't. However, we have a list of recommended mortgage partners who can provide mortgage financing to qualified buyers. We also offer mortgage support services at a fee to help you get through the mortgage application process. Please note that any mortgage financing obtained through our website would be through third-party partners and not directly from us."
+                        },
+                        "q12": {
+                            "title": "What mortgage support services do you provide?",
+                            "answer": "We offer a range of mortgage support services to assist applicants through the mortgage process, including pre-qualification assistance, application assistance, mortgage rate comparison, closing coordination, and refinancing support. Please note that these services are offered at a fee."
+                        },
+                        "q13": {
+                            "title": "Do you have an app on the Google Play Store and Apple App Store?",
+                            "answer": "No, we do not have a mobile app available at this time."
+                        },
+                        "q14": {
+                            "title": "How can I report suspicious or fraudulent activity on your website?",
+                            "answer": "You can report suspicious or fraudulent activity by contacting our customer support team immediately. We take all reports seriously and investigate any suspected fraudulent activity."
+                        },
+                        "q15": {
+                            "title": "What documents do I need to buy or rent a property in Ghana?",
+                            "answer": "Documents required to buy or rent a property in Ghana may include a valid ID, proof of income, bank statements, and other relevant documentation. It's best to consult with a real estate broker or lawyer for specific details."
+                        },
+                        "q16": {
+                            "title": "How do I know if a property is in a good location?",
+                            "answer": "Factors that may indicate a good location include proximity to amenities such as schools, hospitals, shopping centers, and transportation, as well as low crime rates, good infrastructure, and a serene environment."
+                        },
+                        "q17": {
+                            "title": "How do I know if a property is available for sale or rent?",
+                            "answer": "All properties on our website are available for sale and rent. Properties that are no longer available are either flagged as such or are taken off the platform entirely. Additionally, you can contact the seller or broker for confirmation."
+                        },
+                        "q18": {
+                            "title": "What are the best neighborhoods to live in Accra?",
+                            "answer": "This may depend on personal preferences and needs, but some popular neighborhoods in Ghana include East Legon, Airport Residential Area, Cantonments, and Labone."
+                        }
+                    }
+                },
+                "owners": {
+                    "title": "Home Owners",
+                    "note": "Welcome, homeowners! Use our platform's resources whether you're looking to sell or rent your property. Our team of experienced professionals can help you navigate the market and showcase your property with high-quality photos and descriptions. Check out our FAQs section below for more information.",
+                    "questions": {
+                        "q1": {
+                            "title": "How can I list my property on the website as a private homeowner?",
+                            "answer": "To list your property on our website as a private homeowner, you have to contact any of our verified brokers on the platform to market your property on your behalf. To contact a broker, click the sell button on the menu bar. Navigate to the bottom page and fill out the form. Follow the prompts to the end and select any of our available brokers. Click the save button to complete the process. The broker will contact you as soon as practicable to negotiate transaction terms with you. Once satisfied, they will list your property on ReHome."
+                        },
+                        "q2": {
+                            "title": "Can I list my property as an individual for free?",
+                            "answer": "Yes, listing your property as an individual is absolutely free! However, all individual homeowners are required to list their properties through a ReHome-verified broker who may charge a commission."
+                        },
+                        "q3": {
+                            "title": "Do you charge any fees for connecting me with a broker?",
+                            "answer": "No, it’s absolutely free! Once you are satisfied with your preferred broker, you are free to negotiate any fees or commissions directly with him/her. Please note that we do not take any responsibility for transactions between an broker and a property owner."
+                        },
+                        "q4": {
+                            "title": "Can I still access your website resources as a private homeowner?",
+                            "answer": "Yes, you can still access our website resources, such as property market reports, guides, and blog articles for personal information and research purposes."
+                        }
+                    }
+                }
+            },
+            "videos": {
+                "title": "Instructional Videos",
+                "v1": "Filling out Sell for Private Home Owner",
+                "v2": "How to contact an Broker for Buyers",
+                "v3": "Connecting with the buyers for Brokers/Developers",
+                "v4": "Adding Off-Plan Listing for Developer",
+                "v5": "Adding Listing for Broker/Developer",
+                "v6": "Adding/Managing wish list for Buyer",
+                "v7": "How to Sign-up and Onboard for Broker/Realtor/Developer"
+            }
+        },
+        "advertise": {
+            "banner": {
+                "title": "Real Estate Broker Advertising",
+                "note": "When you advertise with ReHome, you get access to the largest online real estate network in Ghana and beyond. Start connecting live with active buyers today!"
+            },
+            "section1": {
+                "title": "Connect to buyers in real-time",
+                "note": "Looking to maximize your real estate sales? Look no further than connecting with buyers in real-time! With this powerful tool at your disposal, you can engage with potential buyers like never before, providing them with the personalized service and attention they crave.",
+                "button": "Start Connecting"
+            },
+            "section2": {
+                "title": "Stremlined Business Management",
+                "note": "We simplify the home buying process by using technology and expertise to connect home buyers with the right real estate agencies and brokers. Our platform offers easy access to the latest real estate listings, and our team of experienced professionals provides guidance and support every step of the way."
+            },
+            "section3": {
+                "title": "Leads Management and<br/> Performance Tracking",
+                "note": "Our experienced team can help you streamline your lead management process and track your team's performance to ensure that you are meeting your goals. With our expert guidance and support, you can optimize your lead generation and improve your overall business performance."
+            },
+            "section4": {
+                "title": "Personalised solutions for<br/> Real Estate related business",
+                "note": "We offer personalized solutions for all your real estate-related needs. Our team of experts has a deep understanding of the industry and can provide you with a range of services, from growing your real estate business to maximizing your returns as an investor. We take the time to understand your unique requirements and develop a customized solution that works best for you."
+            },
+            "section5": {
+                "title": "Join our partners",
+                "note": "Are you an Insurance company, a bank, mortgage, furniture or home improvement? To advertise with us, send us an email through",
+                "button": "advertise@rehomeafrica.com"
+            }
+        },
+        "admindashboard": {
+            "sidenav": {
+                "users": "Users",
+                "discount": "Discount",
+                "location": "Location",
+                "dashboard": "Dashboard",
+                "salesdb": "Customer Search",
+                "enterprisedb": "Enterprise Search",
+                "customerrequest": "Customer Request",
+                "giveaway": "Giveaway",
+                "settings": "Settings",
+                "search": "Search",
+                "requests": "Requests",
+                "dsarrequests": "DSAR"
+            },
+            "dashboard": {
+                "email": {
+                    "title": "Email",
+                    "button": "Send Terms and Conditions Update Email",
+                    "broadcast": {
+                        "button": "Send Broadcast Message",
+                        "title": "Broadcast Message",
+                        "agents": "Brokers/Developers/Realtors",
+                        "agents_placeholder": "Select a list of accounts to broadcast to",
+                        "submit": "Submit",
+                        "cancel": "Cancel"
+                    },
+                    "dialognote": "This will send a mass email to all the Brokers, Realtors, Developers and Customers on the platform that our terms and conditions have been updated. This process can not be reversed!",
+                    "send": "Send",
+                    "cancel": "Cancel",
+                    "deletewarning": "Check this box if you are really sure you want to send this email"
+                },
+                "statistics": {
+                    "title": "Statistics",
+                    "properties": "Properties",
+                    "totalpubprops": "Total Published Properties",
+                    "totalprops": "Total Active Properties",
+                    "propsgrowth": "Active Properties Growth Rate",
+                    "totalpropsamt": "Total Published Properties Cash Amount",
+                    "total": "Total",
+                    "table": {
+                        "cash_amount": "Cash Amount",
+                        "amount_on_for_rent": "For-Rent Properties",
+                        "amount_on_for_sale": "For-Sale Properties",
+                        "amount_on_developments": "Off-Plan Properties",
+                        "amount_on_commercials": "Commercial Properties",
+                        "amount_on_lands": "Lands",
+                        "amount_on_houses": "Houses",
+                        "amount_on_apartments": "Apartments",
+                        "amount_on_sold": "Sold Properties",
+                        "amount_on_rented": "Rented Properties"
+                    }
+                },
+                "leadsreport": {
+                    "title": "Leads Report",
+                    "totals": "Totals",
+                    "agentleads": "Agent Leads Table",
+                    "propertyleads": "Property Leads Table",
+                    "searchplaceholder": "Search Account name",
+                    "table": {
+                        "name": "Name",
+                        "propertyform": "Property Form",
+                        "caller": "Call Button",
+                        "contactform": "Contact Form"
+                    }
+                }
+            },
+            "norecord": "No Records found",
+            "salesdb": {
+                "add": "Add to Customer Search",
+                "searchplaceholder": "Search",
+                "edit": "Edit",
+                "email": "Email",
+                "columns": {
+                    "firstname": "First Name",
+                    "lastname": "Last Name",
+                    "title": "Title",
+                    "phonenumber": "Phone Number",
+                    "email": "Email",
+                    "address": "Address",
+                    "age": "Age",
+                    "gender": "Gender",
+                    "dob": "Date Of Birth",
+                    "status": "Marital Status",
+                    "nationality": "Nationality",
+                    "companyname": "Company Name",
+                    "industry": "Industry",
+                    "prohistory": "Professional History",
+                    "linkedin": "Linkedin Profile",
+                    "twitter": "Twitter Handle",
+                    "facebook": "Facebook Profile",
+                    "instagram": "Instagram Handle",
+                    "website": "Personal Website",
+                    "blog": "Blog/Portfolio URL",
+                    "education": "Education Background",
+                    "cert": "Certificates",
+                    "hobbies": "Interest and Hobbies",
+                    "purchase": "Purchase History",
+                    "size": "Company Size",
+                    "location": "Company Location",
+                    "department": "Company Department",
+                    "pcc": "Preferred Communication Channel",
+                    "pct": "Preferred Communication Time",
+                    "housing": "Housing Preferences",
+                    "needs": "Specific needs/Requirements",
+                    "events": "Events/Conferences Attended",
+                    "lead": "Lead Source",
+                    "rating": "Rating"
+                },
+                "emptyfield": "First name, Last name and Email are required"
+            },
+            "enterprisedb": {
+                "add": "Add to Enterprise Search",
+                "searchplaceholder": "Search",
+                "columns": {
+                    "name": "Name",
+                    "address": "Address",
+                    "city": "City",
+                    "state": "State",
+                    "country": "Country",
+                    "postal_code": "Postal Code",
+                    "industry": "Industry",
+                    "email": "Email",
+                    "phone_number": "Phone Number",
+                    "fax_number": "Fax Number",
+                    "description": "Description",
+                    "year_established": "Year Established",
+                    "annual_revenue": "Annual Revenue",
+                    "employees_count": "Number of Employees",
+                    "linkedIn": "Linked In URL",
+                    "twitter": "Twitter URL",
+                    "facebook": "Facebook URL",
+                    "instagram": "Instagram URL",
+                    "website": "Website",
+                    "contact_accuracy": "Accuracy",
+                    "contacts": "Contacts"
+                },
+                "emptyfield": "Name and Email are required"
+            },
+            "addsupport": {
+                "title": "Add Support",
+                "firstname": "First Name",
+                "lastname": "Last name",
+                "phone": "Phone Number",
+                "email": "Email",
+                "add": "Save",
+                "cancel": "Cancel",
+                "error": "All fields are required",
+                "success": "Request created successfully"
+            },
+            "users": {
+                "usertypes": {
+                    "customer": "Buyer/Renter",
+                    "agent": "Broker",
+                    "realtor": "Realtor",
+                    "developer": "Developer",
+                    "support": "Support",
+                    "all": "All"
+                },
+                "searchplaceholder": "Search by name, email or phone",
+                "table": {
+                    "heading": {
+                        "name": "Name",
+                        "email": "Email",
+                        "suspended": "Suspended",
+                        "verified": "Verified",
+                        "deactivated": "Activated",
+                        "documents": "Documents",
+                        "deleted": "Deleted",
+                        "cancel": "Cancel",
+                        "phone": "Phone Number",
+                        "type": "Type",
+                        "features": "Features",
+                        "size": "Size",
+                        "bed/bath": "Bed & Bath",
+                        "plots": "Plots",
+                        "locations": "Locations",
+                        "notes": "Notes",
+                        "budget": "Budgets",
+                        "status": "Status"
+                    },
+                    "menu": {
+                        "restore": "Restore",
+                        "suspend": "Suspend",
+                        "unverify": "Unverify",
+                        "verify": "Verify",
+                        "activate": "Activate",
+                        "deactivate": "Deactivate",
+                        "delete": "Delete",
+                        "expand": "View Profile",
+                        "broadcast": "Broadcast",
+                        "complete": "Complete",
+                        "view": "View"
+                    },
+                    "info": {
+                        "suspend": "Suspension prevents the user from login and accessing their account",
+                        "verify": "Verification adds a ReHome verification badge to the user",
+                        "deactivate": "Deactivation removes the published properties from the buy/rent and off-plan pages",
+                        "delete": "Deletion disables the user account, to be completed delete 30 days after, This process cannot be reveresed"
+                    },
+                    "question": "Are you sure you want to ",
+                    "deletewarning": "This action cannot be undone",
+                    "suredelete": "Check this box if you are really sure you want to ",
+                    "savepersonal": "Save Personal Details",
+                    "savebusiness": "Save Business Details",
+                    "resetpassword": "Reset User Password",
+                    "checkemail": "Reset Password link has been sent to user's email",
+                    "ghanacard": "Ghana Card",
+                    "businessdoc": "Business Registration Document"
+                }
+            },
+            "discount": {
+                "add": "Add Discount",
+                "edit": "Edit Discount",
+                "percent": "Percent",
+                "generatecode": "Regenerate Code",
+                "table": {
+                    "heading": {
+                        "name": "Name",
+                        "amount": "Amount",
+                        "code": "Code",
+                        "type": "Type",
+                        "start": "Start Date",
+                        "end": "End Date",
+                        "target": "Target",
+                        "active": "Active",
+                        "maxuse": "Maximum Use",
+                        "activateerror": "Cannot activate discount with past date"
+                    },
+                    "menu": {
+                        "deactivate": "Deactivate",
+                        "activate": "Activate",
+                        "delete": "Delete",
+                        "edit": "Edit"
+                    },
+                    "filter": {
+                        "subscription": "Subscription",
+                        "sponsorship": "Sponsorship",
+                        "search": "Search by name or code",
+                        "active": "Active Discounts"
+                    }
+                }
+            },
+            "location": {
+                "title": "Location",
+                "add": "Add Location",
+                "edit": "Edit Location",
+                "search": "Search by name",
+                "table": {
+                    "heading": {
+                        "label": "Label",
+                        "longitude": "Longitude",
+                        "latitude": "Latitude",
+                        "country": "Country",
+                        "active": "Active"
+                    }
+                },
+                "menu": {
+                    "deactivate": "Deactivate",
+                    "activate": "Activate",
+                    "delete": "Delete",
+                    "edit": "Edit",
+                    "setparent": "Set parent"
+                }
+            },
+            "subscription": {
+                "title": "Subscription",
+                "name": "Plan Name",
+                "status": "Status",
+                "code": "Subscription code",
+                "start": "Start Date",
+                "end": "End Date",
+                "cancel": "Cancel Subscription",
+                "save": "Update Subscription",
+                "edit": "Edit Subscription",
+                "amount": "Subscription Amount",
+                "question": "Are you sure you want to cancel user's subscription?",
+                "no": "No",
+                "yes": "Yes"
+            },
+            "addcustomerrequest": {
+                "savebtn": "Save",
+                "submitbtn": "Submit",
+                "addbtn": "Add",
+                "completebtn": "Complete",
+                "broadcastbtn": "Broadcast",
+                "error": "All fields are required",
+                "property_type": "Property Type",
+                "cancel": "Cancel",
+                "close": "Close",
+                "firstname": "First Name",
+                "lastname": "Last Name",
+                "phone": "Phone",
+                "email": "Email",
+                "title": "Property Request",
+                "property_features": "Property Features",
+                "bedrooms": "Bedrooms",
+                "bathrooms": "Bathrooms",
+                "property_size": "Size (SQFT)",
+                "min_budget": "Budget (Min)",
+                "max_budget": "Budget (Max)",
+                "locations": "Locations",
+                "plots": "Plots",
+                "notes": "Note",
+                "contact_info": "Contact Information",
+                "property_info": "Property Information",
+                "budget_info": "Budget Information",
+                "all": "All",
+                "broadcasted": "Broadcasted",
+                "completed": "Completed",
+                "open": "Open",
+                "savefailed": "Failed to Save Customer property request",
+                "savesuccessful": "Customer property request saved",
+                "sendconfirmation": "Send confirmation email",
+                "shortlet": "Are you interested in shortlets"
+            },
+            "giveaway": {
+                "title": "Giveaway",
+                "add": "Add Giveaway",
+                "edit": "Edit Giveaway",
+                "search": "Search by name/code",
+                "properties": "Select a property",
+                "users": "Select a broker",
+                "or": "or",
+                "table": {
+                    "heading": {
+                        "title": "Title",
+                        "code": "Code",
+                        "description": "Description",
+                        "responses": "Responses"
+                    }
+                },
+                "menu": {
+                    "edit": "Edit",
+                    "delete": "Delete",
+                    "export": "Export"
+                },
+                "popup": {
+                    "location": "City",
+                    "phone": "Phone Number",
+                    "duration": "Number of Nights",
+                    "error": "Please Fill the fields",
+                    "exporterror": "Nothing to export"
+                }
+            }
+        },
+        "salesdb": {
+            "searchplaceholder": "Search by keyword"
+        },
+        "rulesforuploading": {
+            "title": "Rules for Uploading Properties",
+            "note1": "To ensure a seamless and reliable user experience, we have established certain rules and guidelines for property listings.",
+            "note2": "Here are the rules to follow when uploading properties on our site:",
+            "p1": "1. Accurate and Complete Information: Provide accurate and up-to-date information about the property, including its location, size, amenities, and pricing. Ensure that all details are presented in a clear and concise manner.",
+            "p2": "2. High-Quality Images: Upload high-quality images that accurately represent the property. Images should be well-lit, properly framed, and showcase the key features and areas of the property.",
+            "p3": "3. Property Ownership Verification: Only list properties for which you have legal ownership or proper authorization to represent.",
+            "p4": "4. Compliance with Legal Requirements: It is your responsibility to confirm that the property meets all necessary legal requirements.",
+            "p5": "5. Respect for Intellectual Property: Do not upload any content that infringes upon the intellectual property rights of others, including copyrighted materials or trademarks. Obtain proper permissions for any copyrighted content used in the listing.",
+            "p6": "6. Prohibited Content: Do not include any content that is discriminatory, offensive, illegal, or violates our terms of service. This includes discriminatory language, explicit content, or any other material that may be deemed inappropriate.",
+            "p7": "7. Timely Updates: Keep your property listings up to date by promptly marking listings that have been sold or are no longer available as such on the platform. Regularly review and update your listings to maintain their accuracy.",
+            "p8": "8. Professional Conduct: Interact with potential buyers or tenants in a professional and respectful manner. Respond promptly to inquiries and provide accurate information about the listed properties.",
+            "p9": "9. Failure to comply with these rules may result in the removal of the property listing or other appropriate actions as per our policies.",
+            "footnote1": "If you have any questions or need further clarification on the rules for uploading properties, please don't hesitate to reach out to us at",
+            "footnote2": " We're here to ensure a positive experience for both property listers and users of our platform.",
+            "sign": "The ReHome Team"
+        },
+        "misc": {
+            "export": "Export"
+        },
+        "firsttimevisit": {
+            "title": "Welcome to ReHome!",
+            "note1": "Be the first to know about our payment options, newly listed properties, offers on rentals, and other updates.",
+            "note2": "Join our exclusive customer list and get exclusive property deals!",
+            "note3": "Join the investment experts as they share proven investment tips. Subscribe Now!",
+            "label": "Subscribe to our newsletter.",
+            "button": "Continue"
+        },
+        "dsar": {
+            "title": "Data Subject Access Request Form",
+            "description": "Please fill in the information below. ReHome's administrator will be notified of your request, and will need an appropriate amount of time to respond.",
+            "form": {
+                "name": "Your name",
+                "name_placeholder": "Enter your name",
+                "email": "What email address do you use to access the above website / app?",
+                "email_placeholder": "Enter your email address",
+                "submitter": "You are submitting this request as",
+                "submitter_as_person": "The person, or the parent / guardian of the person, whose name appears above.",
+                "submitter_as_entity": "A broker authorized by the consumer to make this request on their behalf.",
+                "law": "Under the rights of which law are you making this request?",
+                "request": "I am submitting a request to ___________",
+                "information_gathering_label": "Know what information is being collected from me",
+                "delete_information_label": "Have my information deleted",
+                "prevent_thirdparty_data_sales_label": "Opt out of having my data sold to third parties",
+                "accept_data_sales_label": "Opt in to the sale of my personal data",
+                "access_information_label": "Access my personal information",
+                "update_information_label": "Fix inaccurate information",
+                "get_information_label": "Receive a copy of my personal information",
+                "prevent_advertisement_purposes_label": "Opt out of having my data shared for cross-context behavioral advertising",
+                "limit_information_disclosure_label": "Limit the use and disclosure of my sensitive personal information",
+                "other_label": "Other (please specify in the comment box below)",
+                "note": "Please leave details regarding your action request or question.",
+                "note_placeholder": "Please leave details regarding your action request or question.",
+                "accurate_information_confirmations_label": "Under penalty of perjury, I declare all the above information to be true and accurate.",
+                "deletion_risk_confirmations_label": "I understand that the deletion or restriction of my personal data is irreversible and may result in the termination of services with ReHome.",
+                "validation_confirmations_label": "I understand that I will be required to validate my request by email, and I may be contacted in order to complete the request.",
+                "submit": "Submit",
+                "confirm": "I confirm that"
+            },
+            "submitsuccess": "DSAR sent successfully",
+            "admin": {
+                "pending": "Pending",
+                "processing": "Processing",
+                "completed": "Completed",
+                "paused": "Paused",
+                "placeholder": "Enter DSAR ID",
+                "notfound": "ID not found",
+                "submit": "Submit"
+            }
+        }
+    }
+}

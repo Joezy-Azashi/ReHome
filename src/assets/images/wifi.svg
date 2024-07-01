@@ -1,0 +1,19 @@
+<svg id="Group_2380" data-name="Group 2380" xmlns="http://www.w3.org/2000/svg" width="161" height="164" viewBox="0 0 161 164">
+  <g id="Rectangle_677" data-name="Rectangle 677" fill="#fff" stroke="#5b9c00" stroke-width="0.5">
+    <rect width="161" height="164" rx="9" stroke="none"/>
+    <rect x="0.25" y="0.25" width="160.5" height="163.5" rx="8.75" fill="none"/>
+  </g>
+  <text id="WiFi" transform="translate(19.294 111.182)" fill="#1267b1" font-size="14" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">WiFi</tspan></text>
+  <g id="Ellipse_151" data-name="Ellipse 151" transform="translate(14 14)" fill="#1267b1" stroke="#5b9c00" stroke-width="0.4">
+    <ellipse cx="32.5" cy="33" rx="32.5" ry="33" stroke="none"/>
+    <ellipse cx="32.5" cy="33" rx="32.3" ry="32.8" fill="none"/>
+  </g>
+  <g id="Group_2379" data-name="Group 2379" transform="translate(22.188 29.905)">
+    <path id="Path_3707" data-name="Path 3707" d="M796.043,1122.8a23.272,23.272,0,0,1,1.6-1.778,32.693,32.693,0,0,1,15.8-7.982,33.036,33.036,0,0,1,9.091-.514,32.593,32.593,0,0,1,18.374,7.347c.845.683,1.633,1.439,2.42,2.188a1.535,1.535,0,1,1-2.085,2.251c-1.469-1.219-2.871-2.535-4.428-3.629a28.636,28.636,0,0,0-11.992-4.8,30.026,30.026,0,0,0-7.806-.257,28.827,28.827,0,0,0-13.895,5.017c-1.549,1.078-2.949,2.374-4.395,3.6a1.545,1.545,0,0,1-2.6-.508.429.429,0,0,0-.088-.093Z" transform="translate(-796.043 -1112.422)" fill="#f8f8f8"/>
+    <path id="Path_3708" data-name="Path 3708" d="M865.945,1186.718a23.174,23.174,0,0,1,16.514,6.592,1.6,1.6,0,0,1,.553,1.589,1.466,1.466,0,0,1-1.118,1.136,1.6,1.6,0,0,1-1.6-.524,19.367,19.367,0,0,0-4.319-3.227,19.64,19.64,0,0,0-11.451-2.382,19.358,19.358,0,0,0-12.1,5.582,1.576,1.576,0,0,1-2.734-.492,1.607,1.607,0,0,1,.522-1.677,22.75,22.75,0,0,1,10.159-5.8,21.205,21.205,0,0,1,2.64-.545C864.12,1186.823,865.24,1186.775,865.945,1186.718Z" transform="translate(-842.438 -1176.748)" fill="#f8f8f8"/>
+    <path id="Path_3709" data-name="Path 3709" d="M922.283,1265.983a1.748,1.748,0,0,1-.991,1.424,1.5,1.5,0,0,1-1.657-.231,19.235,19.235,0,0,0-1.833-1.431,9.682,9.682,0,0,0-11.768,1.106,1.973,1.973,0,0,1-1.276.693,1.538,1.538,0,0,1-1.5-.9,1.515,1.515,0,0,1,.327-1.719,12.322,12.322,0,0,1,4.377-2.859,12.646,12.646,0,0,1,11.557,1.119,14.723,14.723,0,0,1,2.179,1.74A3.843,3.843,0,0,1,922.283,1265.983Z" transform="translate(-888.751 -1241.208)" fill="#f8f8f8"/>
+    <path id="Path_3710" data-name="Path 3710" d="M962.926,1335.8a2.066,2.066,0,0,1-4.131,0,2.066,2.066,0,0,1,4.131,0Z" transform="translate(-936.954 -1304.039)" fill="#f8f8f8"/>
+  </g>
+  <text id="WiFi_is_available_in_this_facility" data-name="WiFi is available in
+this facility" transform="translate(22 130)" fill="#343434" font-size="10" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">WiFi is available in</tspan><tspan x="0" y="14">this facility</tspan></text>
+</svg>

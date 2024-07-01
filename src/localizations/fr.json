@@ -1,0 +1,2045 @@
+{
+    "translation": {
+        "languages": {
+            "en": "Anglais",
+            "fr": "Français"
+        },
+        "lang_code": "fr",
+        "currency": {
+            "title": "Devise",
+            "ghs": "GHS",
+            "usd": "USD"
+        },
+        "cookie": {
+            "accept": "Accepter",
+            "decline": "Déclin",
+            "description": "Nous utilisons des cookies essentiels pour faire fonctionner notre site. Avec votre consentement, nous pouvons également utiliser des cookies non essentiels pour améliorer l'expérience de l'utilisateur et analyser le trafic du site web. En cliquant sur \"Accepter\", vous acceptez l'utilisation des cookies sur notre site web, telle qu'elle est décrite dans notre politique en matière de cookies."
+        },
+        "share": "Numéro de téléphone copié dans le presse-papiers",
+        "shareurl": "URL copiée dans le presse-papiers",
+        "shareerror": "Erreur de copie",
+        "loginprompt": {
+            "note1": "Avez-vous un compte?",
+            "note2": "ou",
+            "note3": "pour contacter un courtier",
+            "note4": "pour vendre votre propriété",
+            "note5": "pour utiliser la calculatrice hypothécaire"
+        },
+        "amenities": {
+            "gym": "Salle de sport",
+            "wifi": "Wifi",
+            "parking": "Le Parking",
+            "pool": "Piscine",
+            "air_condition": "La climatisation",
+            "security": "Sécurité",
+            "washer_and_dryer": "Lave-linge et sèche-linge",
+            "water_tank": "Réservoir d'eau",
+            "water_well": "Puits d'eau",
+            "borehole": "Trou de forage",
+            "pet_friendly": "Favorable aux animaux de compagnie",
+            "guest_room": "Chambre d’amis",
+            "play_ground": "Aire de jeu",
+            "car_park": "Parking",
+            "library": "Bibliothèque",
+            "restaurant": "Restaurant",
+            "bar": "Bar",
+            "bath": "Salle de bain",
+            "bed": "Chambre à coucher"
+        },
+        "passwordsuggestion": {
+            "charlength": "Au moins 10 caractères",
+            "case": "Les lettres majuscules et minuscules (a-z, A-Z),",
+            "specialchar": "Au moins un chiffre et au moins un caractère spécial (eg. +, $, !, ?, #)"
+        },
+        "logout": "Déconnecter",
+        "phonevalidationalert": "Invalide. Le numéro de téléphone comporte moins de 10 chiffres",
+        "navbar": {
+            "buy": "Acheter",
+            "rent": "Louer",
+            "shortlet": "Shortlet",
+            "sell": "Vendre",
+            "offplan": "Sur Plan",
+            "mortgage": "Prêt Hypothécaire",
+            "findanAgent": "Trouver un Courtier",
+            "blog": "Blog",
+            "login": "CONNECTEZ-VOUS",
+            "signup": "S'INSCRIRE",
+            "notifications": "Notifications",
+            "newlisting": "Nouvelle Inscription",
+            "developer": "Développeur"
+        },
+        "aboutus": {
+            "banner": {
+                "maintext1": "À propos de ReHome",
+                "subtext": "Bienvenue sur ReHome, votre première destination pour trouver des maisons et des appartements au Ghana. En tant que plateforme MLS, nous fournissons une base de données complète d'annonces immobilières, que vous cherchiez à acheter, à louer ou à trouver une location à court terme. Nous sommes là pour vous aider à chaque étape. Faites confiance à ReHome pour vous guider en toute transparence vers la propriété de vos rêves au Ghana. Traduit avec DeepL.com (version gratuite)"
+            },
+            "services": {
+                "title": "NOS SERVICES",
+                "service1": {
+                    "title": "Gestion<br/>Immobilière",
+                    "note": "Profitez de services de gestion immobilière sans stress grâce à notre liste exclusive de professionnels expérimentés."
+                },
+                "service2": {
+                    "title": "Aide<br/>Hypothécaire",
+                    "note": "Obtenez toute l'aide hypothécaire dont vous avez besoin pour commencer votre parcours d'acquisition de maison."
+                },
+                "service3": {
+                    "title": "Services<br/>de Conseil",
+                    "note": "Investir dans le succès avec nos services de conseil immobilier."
+                },
+                "service4": {
+                    "title": "Maison<br/>Achat/Vente",
+                    "note": "L'achat ou la vente d'une maison ne doit pas être un processus complexe - obtenez des conseils d'experts dès aujourd'hui!"
+                }
+            },
+            "moreofyou": {
+                "title": "PLUS DE VOUS, MOINS DE NOUS",
+                "note": "Chez ReHome, nous avons pour culture de faire bien plus que de la simple vente de biens immobiliers. En tant que leader dans la vente et la location de maisons, nous partageons la culture de servir les autres, nos communautés et notre planète. Notre mission, notre vision, nos valeurs et notre culture nous distinguent en tant qu'innovateurs et leaders du secteur."
+            },
+            "ceomessage": {
+                "note": "Je crois sincèrement que la première chose que nous pouvons faire pour améliorer les quartiers, les communautés et les individus est d'aider les gens à devenir propriétaires."
+            },
+            "contactus": {
+                "title": "Contactez-nous",
+                "fullname": "Non complet",
+                "fullnameplaceholder": "Entrez votre nom complet",
+                "email": "Email",
+                "emailplaceholder": "Entrez votre email",
+                "phone": "Téléphone",
+                "message": "Message",
+                "question": "Question",
+                "messageplaceholder": "Comment pouvons-nous vous aider?",
+                "send": "Envoyer"
+            },
+            "members": {
+                "title": "Les Membres"
+            }
+        },
+        "menu": {
+            "manageAccount": "Gérer le compte",
+            "mainsite": "Site Principal"
+        },
+        "authpage": {
+            "title": "Expérience Premium",
+            "subtext": "Une expérience sans faille, tout en trouvant la prochaine grande chose, <br /> votre propre propriété. C'est facile, rapide et abordable"
+        },
+        "login": {
+            "login": "Connectez-vous",
+            "email": "Email",
+            "password": "Mot de passe",
+            "createAccount": "S'inscrire",
+            "emailPlaceholder": "Entrez votre email",
+            "passwordPlaceholder": "Entrez votre mot de passe",
+            "forgotPassword": "Mot de passe oublié?",
+            "connect": "Ou se connecter avec:",
+            "signInApple": "Apple",
+            "signInGoogle": "Google",
+            "signInFacebook": "Facebook",
+            "validation": {
+                "emptyfields": "Tous les champs sont requis",
+                "success": "Connexion réussie",
+                "fail": "Connexion échouée"
+            }
+        },
+        "signuptype": {
+            "choosetype": "Choisir le type d'utilisateur",
+            "buyerRenter": "Acheteur/Locateur",
+            "admin": "Admin",
+            "customer": "Client",
+            "buyer": "Acheteur",
+            "agent": "Courtier",
+            "realtor": "Agent immobilier",
+            "realtorBroker": "Agent immobilier/Courtier",
+            "developer": "Développeur",
+            "broker": "Courtier",
+            "apply": "Appliquer"
+        },
+        "forgotpassword": {
+            "title": "Oublier le mot de passe",
+            "instruction": "Entrez votre adresse électronique ci-dessous et nous vous enverrons un lien pour réinitialiser votre mot de passe",
+            "email": "Email",
+            "placeholder": "Entrez email",
+            "button": "Envoyer",
+            "back": "Retour",
+            "validation": {
+                "emptyfield": "Le Champ Email  es requis",
+                "email": "L'email n'est pas valide",
+                "success": "Un message d'activation a été envoyé à votre adresse e-mail",
+                "fail": "Erreur"
+            }
+        },
+        "resetpassword": {
+            "title": "Réinitialiser le mot de passe",
+            "instruction": "Remplissez le formulaire ci-dessous pour réinitialiser votre mot de passe",
+            "newpassword": "Nouveau mot de passe",
+            "confirmpassword": "Confirmer le mot de passe",
+            "passwordplaceholder": "Entrez un nouveau mot de passe",
+            "confirmpasswordplaceholder": "Confirmer le mot de passe",
+            "button": "Réinitialiser",
+            "back": "Retour à la page d'accueil",
+            "validation": {
+                "emptyfields": "Tous les champs sont obligatoires",
+                "passwordnotequal": "Le mot de passe et le mot de passe de confirmation ne sont pas les mêmes",
+                "weakpassword": "Le mot de passe est trop faible",
+                "success": "Votre mot de passe a été réinitialisé avec succès",
+                "fail": "Erreur"
+            }
+        },
+        "createaccount": {
+            "enterEmail": "Email",
+            "choosePassword": "Choisissez un mot de passe",
+            "confirmPassword": "Confirmer le mot de passe",
+            "emailPlaceholder": "Entrez l’ email",
+            "passwordPlaceholder": "Entrer le mot de passe",
+            "reapeatPasswordPlaceholder": "Confirmer le mot de passe",
+            "passwordIntruction": "Le mot de passe doit comporter au moins 8 caractères et contenir des chiffres, des lettres et des signes",
+            "signupButton": "S'inscrire",
+            "nextButton": "Suivant",
+            "agreement1": "En vous inscrivant, vous acceptez nos",
+            "agreement2": "et",
+            "agreement3": "Vous serez également inscrit à notre liste de diffusion.",
+            "connect": "Ou se connecter avec:",
+            "signUpApple": "S'inscrire avec Apple",
+            "signInGoogle": "Google",
+            "signInFacebook": "Facebook",
+            "noemailerror": "Veuillez autoriser l'accès aux e-mails pour l'inscription",
+            "suspenderror": "Ce compte est suspendu, veuillez contacter ReHome pour obtenir de l'aide",
+            "validation": {
+                "emptyemail": "Invalide. Entrez un email valide",
+                "emptypasswordfields": "Tous les champs sont obligatoires",
+                "choosetype": "Choisissez le type de compte",
+                "email": "L'email n'est pas valide",
+                "name": "Le nom est obligatoire",
+                "passwordnotequal": "Le mot de passe et le mot de passe de confirmation ne correspondent pas",
+                "weakpassword": "Le mot de passe est trop faible",
+                "success": "Votre compte à été créé avec succès"
+            }
+        },
+        "comingsoon": {
+            "back": "Ramène-moi",
+            "title": "Ramène-moi",
+            "home": "Emmène moi chez toi"
+        },
+        "dashboard": {
+            "logout": "Déconnecter",
+            "recentactivities": "Les activités<br/>Récentes",
+            "profile": {
+                "profile": "Profil",
+                "myprofile": "Mon profil",
+                "completeprofile": "Votre profil est complété",
+                "uncompletedprofile": "Votre profil n'est pas complété",
+                "changepasswordbtn": "Modifier le mot de passe",
+                "profiletitle": "Données personnelles",
+                "firstname": "Prénom",
+                "lastname": "Nom",
+                "firstnameplaceholder": "Entrez le prénom",
+                "lastnameplaceholder": "Entrer le nom de famille",
+                "email": "Email",
+                "contact": "Coordonnées",
+                "contactplaceholder": "Entrez votre contact",
+                "gender": "Genre",
+                "city": "Ville",
+                "cityplaceholder": "Entrez ville",
+                "edit": "Éditer",
+                "save": "Sauvegarder",
+                "updatesuccess": "Profil mis à jour avec succès"
+            },
+            "profileimage": {
+                "title": "Télécharger l'image de profil",
+                "instruction": "Cliquez ici pour télécharger l'image de profil",
+                "upload": "Télécharger",
+                "cancel": "Annuler",
+                "validimage": "Une image valide doit être sélectionnée",
+                "validdoc": "Un document valide doit être sélectionné",
+                "uploadsuccess": "Image de profil téléchargée avec succès"
+            },
+            "changepassword": {
+                "title": "Changer le mot de passe",
+                "instruction": "Remplissez le formulaire ci-dessous pour changer votre mot de passe",
+                "currentpassword": "Mot de passe actuel",
+                "currentpasswordplaceholder": "Entrer le mot de passe actuel",
+                "newpassword": "Nouveau mot de passe",
+                "newpasswordplaceholder": "Entrez un nouveau mot de passe",
+                "confirmpassword": "Confirmer le mot de passe",
+                "confirmpasswordplaceholder": "Confirmer le mot de passe",
+                "changepasswordbtn": "Sauvegarder",
+                "back": "Retour au profil",
+                "validation": {
+                    "emptyfields": "Tous les champs sont obligatoires",
+                    "passwordnotequal": "Le mot de passe et le mot de passe de confirmation ne sont pas les mêmes"
+                }
+            },
+            "wishlist": {
+                "wishlist": "Liste de souhaits",
+                "manage": "Gérez votre liste de souhaits ici",
+                "added": "Propriété ajoutée à la liste de souhaits",
+                "removed": "Propriété supprimée de la liste de souhaits",
+                "add": "Ajouter à la liste de souhaits",
+                "remove": "Supprimer de la liste de souhaits",
+                "nowishlist": {
+                    "title": "Pas de liste de souhaits",
+                    "note": "Vous n'avez pas de liste de souhaits"
+                },
+                "button": {
+                    "send": "Envoyer",
+                    "cancel": "Annuler"
+                },
+                "email": {
+                    "title": "Envoyer un courriel",
+                    "description": "Envoyer des courriels aux propriétés sélectionnées",
+                    "no_message_error": "Veuillez saisir un message !",
+                    "no_property_error": "Veuillez sélectionner les propriétés!",
+                    "messageplaceholder": "Saisir le message ici"
+                }
+            },
+            "listings": {
+                "title": "Inscriptions",
+                "manage": "Gérez vos inscriptions ici",
+                "add": "Ajouter une annonce"
+            },
+            "customemail": {
+                "form_incomplete": "Veuillez compléter le formulaire",
+                "title": "Générateur de courrier électronique personnalisé",
+                "description": "Créez un courrier électronique généré par l'IA en remplissant le formulaire",
+                "token": "génération d'emails à gauche",
+                "tone": "Ton du courrier électronique",
+                "casual": "Informel",
+                "formal": "Formel",
+                "entrepreneurial": "Entrepreneurial",
+                "informative": "Informatif",
+                "professional": "Professionnel",
+                "friendly": "Amical",
+                "urgent": "Urgent",
+                "direct": "Direct",
+                "personal": "Personnel",
+                "intention": "Intention du courrier électronique",
+                "general_introduction": "Introduction générale",
+                "property_proposal": "Proposition de propriété",
+                "property_invitation": "Invitation à une propriété",
+                "seasonal_greetings": "Vœux de saison",
+                "event_recap": "Résumé de l'événement",
+                "custom": "Personnalisé",
+                "language": "Langue du courrier électronique",
+                "english": "Anglais",
+                "french": "Français",
+                "spanish": "Espagnol",
+                "portuguese": "Portugais",
+                "length": "Longueur du courrier électronique",
+                "short": "Court",
+                "medium": "Normal",
+                "long": "Long",
+                "additional_info": "Saisissez des informations supplémentaires",
+                "generate": "Générer le courrier électronique",
+                "property": "Sélectionnez une propriété",
+                "describe_season": "Veuillez décrire la saison en question",
+                "describe_event": "Veuillez décrire l'événement en question"
+            },
+            "messages": {
+                "messages": "Messages",
+                "manage": "Gérer vos messages ici"
+            },
+            "notifications": {
+                "notifications": "Notifications",
+                "manage": "Gérez vos notifications ici",
+                "nonotification": "Aucune notification",
+                "message": "Vous n'avez aucune notification"
+            }
+        },
+        "agentdashboard": {
+            "onboardingincomplete": {
+                "title": "L'embarquement incomplète",
+                "paragraph1": "Il semble que vous n’ayez pas terminé le processus d’embarquement. Certaines fonctionnalités de notre site peuvent être inaccessibles tant que l’embarquement n’est pas terminée.",
+                "paragraph2": "Terminez l’embarquement pour obtenir un accès complet à toutes les fonctionnalités et services de notre site. Si vous recevez ce message par erreur, contactez <b>appeals@rehomeafrica.com</b>",
+                "button": "Intégration complète"
+            },
+            "sidebar": {
+                "home": "Maison",
+                "listings": "Inscriptions",
+                "subscription": "Abonnement",
+                "stats": "Statistiques",
+                "messages": "Messages",
+                "salesdb": "Recherche de clients",
+                "enterprisedb": "Recherche d'entreprise",
+                "continueonboading": "Continuer<br/>L’embarquement",
+                "gethelp": "Obtenir de l'aide"
+            },
+            "home": {
+                "recentlistings": "Annonces récentes",
+                "addlisting": "Ajouter une annonce",
+                "addoffplan": "Ajouter sur plan",
+                "viewmyprofile": "Voir mon profil",
+                "myproperties": "Mes propriétés",
+                "forrent": "A louer",
+                "forsale": "À vendre",
+                "sold": "Vendu",
+                "rented": "Loué",
+                "clicksthisweek": "Clics cette semaine",
+                "viewsthisweek": "Atteint cette semaine",
+                "allleads": "Tous les prospects",
+                "alltimestat": "Statistiques historiques",
+                "click": "Coût Par<br/> Clic",
+                "lead": "Coût Par<br/> Prospect",
+                "view": "Coût par<br/> portée",
+                "nolisting": "Vous n'avez pas d'annonces immobilières",
+                "rules": "Règles de téléchargement"
+            },
+            "editprofile": {
+                "personaldetails": {
+                    "title": "Données personnelles",
+                    "firstname": "Prénom",
+                    "lastname": "Nom",
+                    "phone": "Téléphone",
+                    "email": "Email",
+                    "profession": "Métier",
+                    "social": "Les réseaux sociaux",
+                    "changepassword": "Changer le mot de passe",
+                    "nar": "Numéro N.A.R"
+                },
+                "businessdetails": {
+                    "title": "Détails de l'entreprise",
+                    "businessname": "Nom de l'entreprise",
+                    "businessphone": "Téléphone professionnel",
+                    "businessaddress": "Adresse professionnelle",
+                    "businessemail": "Courriel professionnel",
+                    "businesslocation": "Emplacement de l’entreprise",
+                    "servicearea": "Domaine des services aux entreprises",
+                    "businessdescription": "Description de l’entreprise",
+                    "save": "Sauvegarder"
+                }
+            },
+            "listing": {
+                "edit": "Modifier",
+                "selectall": "Sélectionner tout",
+                "publishselected": "Publier les articles sélectionnés",
+                "unpublishselected": "Annuler la publication de la sélection",
+                "published": "Publié",
+                "publishalert": "Réussi! La propriété sera en direct dans 5 minutes",
+                "removepublish": "Liste mise à jour avec succès",
+                "promoteselected": "Promouvoir la sélection",
+                "selectitem": "Sélectionnez un élément dans la liste",
+                "cantpromote": "Un ou plusieurs des biens sont déjà promus",
+                "publishdialog": {
+                    "title": "Accord de transfert de propriété",
+                    "note": "En téléchargeant des biens immobiliers sur ReHome, je confirme que j'ai lu et respecté les règles et les lignes directrices. Je garantis l'exactitude des informations, la qualité des images, la conformité aux exigences légales et le respect de la propriété intellectuelle. Je comprends que ReHome se réserve le droit d'examiner et de modérer les annonces. Toute violation peut entraîner la suppression de la propriété, la suspension du compte ou la résiliation.",
+                    "clickhere": "Cliquez ici",
+                    "toread": "pour lire les règles relatives à l'envoi de propriétés."
+                },
+                "titles": {
+                    "tab1": "Toutes les annonces",
+                    "tab2": "A louer",
+                    "tab3": "À vendre",
+                    "tab4": "Sur Plan",
+                    "tab5": "Transactions passées",
+                    "tab6": "Brouillon",
+                    "tab7": "Inscription sponsorisée"
+                },
+                "tablehead": {
+                    "date": "Date de téléchargement",
+                    "rentedsold": "Rented/Sold Date",
+                    "name": "Nom de la propriété",
+                    "type": "Type de propriété",
+                    "advertising": "La publicité",
+                    "status": "Statut",
+                    "edit": "Modifier",
+                    "select": "Choisir"
+                },
+                "promotion": {
+                    "title": "Pourquoi faire de la promotion?",
+                    "paragraph1": "Chez ReHome, nous comprenons qu'en tant qu'agent immobilier, votre temps est précieux et que vous voulez tirer le meilleur parti de vos efforts de marketing. C’est pourquoi nous offrons la possibilité de promouvoir vos annonces sur notre site Web. Lorsque vous payez pour promouvoir une annonce, elle sera mise en évidence sur notre site, augmentant ainsi la visibilité de votre propriété auprès des acheteurs potentiels.",
+                    "paragraph2": "Cela peut conduire à une vente plus rapide et vous faire gagner du temps et des efforts à long terme. De plus, avec nos algorithmes de publicité ciblée, vous pouvez être sûr que votre propriété est vue par le bon public. Investir dans la promotion de votre annonce sur ReHome est une décision intelligente qui peut s'avérer payante au bout du compte.",
+                    "summary": {
+                        "title": "Résumé",
+                        "item": "Articles",
+                        "entercode": "Entrez le code de réduction",
+                        "promocode": "Code promotionnel",
+                        "apply": "Appliquer",
+                        "subtotal": "Sous-total",
+                        "total": "Total",
+                        "back": "Retour aux plans",
+                        "proceed": "Payer avec PayStack"
+                    },
+                    "packages": {
+                        "per": "Inscription",
+                        "save": "Enregistrer",
+                        "viewcart": "Voir le panier",
+                        "starter": {
+                            "title": "Démarreur",
+                            "note": "Le plan de démarrage vous donne accès à des milliers d’acheteurs potentiels pendant 3 jours Publicité directe sur ReHome"
+                        },
+                        "standard": {
+                            "title": "Standard",
+                            "note": "Le plan standard vous donne accès à des milliers d'acheteurs potentiels pendant 6 jours Publicité directe sur ReHome"
+                        },
+                        "pro": {
+                            "title": "Pro",
+                            "note": "Le plan pro vous donne accès à des milliers d'acheteurs potentiels pendant 9 jours Publicité directe sur ReHome"
+                        }
+                    }
+                }
+            },
+            "subscription": {
+                "details": {
+                    "title": "Plans flexibles",
+                    "note": "Pas de contrats, pas de frais cachés",
+                    "updatecard": "Carte de mise à jour",
+                    "packages": {
+                        "agentlight": {
+                          "title": "Gratuit",
+                          "point1": "Badge de courtier",
+                          "point2": "Compte administrateur",
+                          "point3": "1 annonce immobilière",
+                          "note": "Consultez les forfaits promotionnels pour plus de détails sur les publicités Google. <br/><br/>Valable uniquement pour votre <b>premier mois</b>"
+                        },
+                        "agentplus": {
+                          "title": "Plan Courtier",
+                          "point1": "Badge de courtier",
+                          "point2": "Compte administrateur",
+                          "point3": "Profil sur la page du courtier",
+                          "point4": "5 annonces immobilières",
+                          "point5": "Taux de prêt hypothécaire spécial",
+                          "point6": "Apparence du formulaire de vente",
+                          "note": "Consultez les forfaits promotionnels pour plus de détails sur les publicités Google. <br/><br/><b>799 GHS (TTC)</b><br/><br/>Facturé pour 3 mois : 2199 GHS"
+                        },
+                        "realtor": {
+                          "title": "Plan Agent immobilier",
+                          "point1": "Badge d'agent immobilier (avec numéro N.A.R.)",
+                          "point2": "Compte administrateur",
+                          "point3": "Profil sur la page du courtier",
+                          "point4": "Annonces illimitées",
+                          "point5": "Permanence téléphonique 24/7",
+                          "point6": "Taux de prêt hypothécaire spécial",
+                          "point7": "Apparence du formulaire de vente",
+                          "point8": "Mise en avant sur les réseaux sociaux",
+                          "point9": "Recherche client",
+                          "point10": "Emails générés par l'IA",
+                          "note": "Consultez les forfaits promotionnels pour plus de détails sur les publicités Google. <br/><br/><b>1499 GHS (TTC)</b><br/><br/>Facturé pour 3 mois : 4199 GHS"
+                        },
+                        "developer": {
+                          "title": "Plan Développeur",
+                          "point1": "Badge de développeur",
+                          "point2": "Compte administrateur",
+                          "point3": "Profil sur la page du courtier",
+                          "point4": "Annonces illimitées",
+                          "point5": "Permanence téléphonique 24/7",
+                          "point6": "Taux de prêt hypothécaire spécial",
+                          "point7": "Mise en avant sur les réseaux sociaux",
+                          "point8": "Recherche client",
+                          "point9": "Emails générés par l'IA",
+                          "point10": "Catégorie de recherche exclusive",
+                          "point11": "Gestionnaire de relations",
+                          "note": "Consultez les forfaits promotionnels pour plus de détails sur les publicités Google. <br/><br/><b>1499 GHS (TTC)</b><br/><br/>Facturé pour 3 mois : 4199 GHS"
+                        }
+                    },
+                    "selection": {
+                        "title1": "Sélectionnez un",
+                        "title2": "Nouveau plan",
+                        "title3": "Pour mettre à niveau",
+                        "note": "La mise à niveau vous donne accès à un nouveau type de compte"
+                    }
+                },
+                "packagecards": {
+                    "month": "3 Mois",
+                    "currentplan": "Plan actuel",
+                    "expires": "Expiration",
+                    "discountplaceholder": "Code promotionnel",
+                    "discountbutton": "Appliquer",
+                    "payplaceholder": "Total",
+                    "paybutton": "Payer avec PayStack",
+                    "confirm": "Confirmer",
+                    "subscriptionchange": "L'abonnement a été modifié avec succès",
+                    "agentlight": {
+                        "title": "Gratuit",
+                        "note": "Le plan gratuit est idéal pour les clients qui débutent. Ce plan fournit aux clients des outils marketing de base pour la visibilité des biens et la génération de leads.",
+                        "amount": "Premier mois seulement"
+                    },
+                    "agentplus": {
+                        "title": "Courtier",
+                        "note": "Le plan Broker est idéal pour les clients possédant jusqu'à 5 biens immobiliers. Ce plan offre aux clients des outils de marketing améliorés pour une meilleure visibilité des propriétés et la génération de leads."
+                    },
+                    "realtor": {
+                        "title": "Immobilier",
+                        "note": "Le plan agent immobilier est fortement recommandé pour les clients avec des propriétés illimitées. Ce plan fournit aux clients tous les outils marketing nécessaires pour maximiser la visibilité et la génération de prospects."
+                    },
+                    "developer": {
+                        "title": "Développeur",
+                        "note": "Le Developer Plan offre un avantage marketing unique aux promoteurs immobiliers. Ce plan permet aux développeurs de promouvoir leurs développements en plus de leurs listes de propriétés individuelles pour une visibilité optimale et une génération de prospects."
+                    }
+                }
+            },
+            "stats": {
+                "myproperties": "Mes propriétés",
+                "forrent": "A louer",
+                "forsale": "À vendre",
+                "year": "Année",
+                "clicksthisweek": "Clics cette semaine",
+                "viewsthisweek": "Atteint cette semaine",
+                "allleads": "Tous les prospects",
+                "alltimestat": "Statistiques historiques",
+                "click": "Coût Par<br/> Clic",
+                "lead": "Coût Par<br/> Prospect",
+                "view": "Coût par<br/> Portée",
+                "chartclicks": "Clics",
+                "chartreach": "Atteinte",
+                "noleads": "Aucune piste",
+                "leads": {
+                    "newleads": "Nouveaux prospects",
+                    "closedleads": "Pistes fermées",
+                    "view": "Vue",
+                    "close": "Fermer",
+                    "open": "Ouvrir",
+                    "backdrop": {
+                        "contacttitle": "Formulaire de contact de propriété",
+                        "fullname": "Nom et prénom",
+                        "email": "Email",
+                        "phone": "Téléphone",
+                        "message": "Message",
+                        "location": "Emplacement",
+                        "question": "Questions"
+                    }
+                }
+            },
+            "addlisting": {
+                "alerts": {
+                    "charlength": {
+                        "propertyname": "Le nom de la propriété doit comporter plus de 10 caractères",
+                        "location": "Sélectionner un emplacement",
+                        "description": "La description doit comporter entre 10 et 300 caractères",
+                        "draftsave": "Indiquez au moins le nom de la propriété avant d'enregistrer en tant que brouillon"
+                    },
+                    "propertytype": "Veuillez sélectionner le type de propriété",
+                    "gps": "Sélectionnez l’emplacement  GPS sur la carte",
+                    "transactiontype": "Sélectionnez le type de transaction",
+                    "propertystatus": "Sélectionnez le statut de la propriété",
+                    "propertysize": "Entrez la taille de la propriété",
+                    "propertysizevalue": "La taille de la propriété doit être supérieure à 0",
+                    "constructionyear": "Entrer l'année de construction",
+                    "furnishing": "Sélectionnez l'option d'ameublement",
+                    "totalroombath": "Le nombre total de chambres et de salles de bain doit être égal ou supérieur à 1",
+                    "cost": "Entrez le coût de la propriété",
+                    "costvalue": "Le coût du bien doit être supérieur à 0",
+                    "currency": "Sélectionnez la devise",
+                    "delete": "Voulez-vous vraiment supprimer cette propriété ?",
+                    "delete_draft": "Êtes-vous sûr de vouloir supprimer ce projet ?",
+                    "changeplan": "Vous êtes sur le point de changer de formule d'abonnement. Voulez-vous continuer?"
+                },
+                "button": {
+                    "add": "Ajouter",
+                    "back": "Retour",
+                    "continue": "Continuer",
+                    "proceed": "Procéder",
+                    "submit": "Soumettre l'annonce",
+                    "toproperties": "Emmenez-moi à la propriété",
+                    "addmore": "Ajouter plus d'annonces",
+                    "cancel": "Annuler",
+                    "delete": "Supprimer",
+                    "update": "Actualiser"
+                },
+                "steps": {
+                    "title": "Ajouter une annonce",
+                    "edit": "Modifier la liste",
+                    "basic": "Info de base",
+                    "config": "Config. de la propriété",
+                    "amenities": "Équipements",
+                    "features": "Caractéristiques uniques",
+                    "gallery": "Galerie",
+                    "payment": "Détails de paiement",
+                    "attachment": "Attachement",
+                    "save": "Enregistrer comme brouillon",
+                    "update": "Projet de mise à jour",
+                    "delete": "Supprimer la propriété",
+                    "delete_draft": "supprimer le projet"
+                },
+                "tab1": {
+                    "title": "Décrivez votre propriété",
+                    "note": "Aidez les acheteurs à trouver les bonnes informations en fournissant tous les détails importants nécessaires pour vendre rapidement",
+                    "name": "Nom de la propriété",
+                    "nameplaceholder": "Le nom doit comporter plus de 10 caractères",
+                    "propertytype": "Type de propriété",
+                    "apartment": "Appartement",
+                    "house": "Maison",
+                    "land": "Terrain",
+                    "commercial": "Commercial",
+                    "shortlet": "Shortlet",
+                    "location": "Emplacement",
+                    "pinlocation": "Épingler l’emplacement en cliquant sur l’endroit exact sur la carte",
+                    "describe": "Décrivez votre propriété",
+                    "describeplaceholder": "La description doit comporter plus de 10 caractères",
+                    "country": {
+                        "label": "Pays",
+                        "ghana": "Ghana"
+                    }
+                },
+                "tab2": {
+                    "title": "Configuration de la propriété",
+                    "note": "Aidez les acheteurs à trouver les bonnes informations en fournissant tous les détails importants nécessaires pour vendre rapidement",
+                    "transactiontype": "Type de transaction",
+                    "rent": "Louer",
+                    "sale": "Vente",
+                    "status": "Statut de la propriété",
+                    "available": "Disponible",
+                    "sold": "Vendu",
+                    "rented": "Loué",
+                    "size": "Taille de la propriété",
+                    "size_land": "Taille du terrain",
+                    "sizeplaceholder": "Mètre carré",
+                    "contructionyear": "Année de construction",
+                    "none": "Aucun",
+                    "contructionyearplaceholder": "Année de construction",
+                    "furnishing": "Options d'ameublement",
+                    "furnished": "Meublé",
+                    "unfurnished": "Non meublé",
+                    "shortlet": "Acceptez-vous les shortlets ?",
+                    "yes": "Oui",
+                    "no": "Non",
+                    "rooms": "Nombre total de chambres",
+                    "baths": "Nombre total de bains"
+                },
+                "tab3": {
+                    "title": "Équipements",
+                    "note": "Informez les acheteurs de toutes les commodités disponibles dans cette propriété pour les aider à décider plus rapidement",
+                    "search": "Rechercher des commodités",
+                    "popular": "Équipements populaires"
+                },
+                "tab4": {
+                    "title": "Caractéristiques uniques",
+                    "note": "Sélectionnez les fonctionnalités ci-dessous en cliquant sur la fonctionnalité d'entrée pour ajouter",
+                    "enter": "Entrez la fonctionnalité unique",
+                    "alert": "Veuillez fournir une caractéristique"
+                },
+                "tab5": {
+                    "title": "Photos de la propriété",
+                    "note": "Téléchargez des photos de qualité pour représenter ce que votre propriété a à offrir. De bonnes images peuvent augmenter l'intérêt des clients",
+                    "clickhere": "Cliquez pour ajouter des photos",
+                    "size": "Taille de fichier max: 1MB, Max Photos: 12",
+                    "image": "Télécharger une image 3D",
+                    "imagenote": "Taille de fichier max: 1MB",
+                    "video": "Télécharger une video",
+                    "videonote": "Taille de fichier max: 5MB",
+                    "upload": "Téléchargement de photos/vidéos de propriété",
+                    "maximages": "Vous pouvez télécharger un maximum de 12 photos seulement"
+                },
+                "tab6": {
+                    "title": "Détails de paiement",
+                    "note": "Spécifiez vos modes de paiement acceptés",
+                    "hide": "Cacher le prix",
+                    "cost": "Coût de la propriété",
+                    "currency": "Devise",
+                    "usd": "USD",
+                    "ghs": "GHS",
+                    "taxes": "Impôts",
+                    "vat": "TVA/Taxe  Applicable",
+                    "daily": "par nuit",
+                    "weekly": "Semaine",
+                    "monthly": "par mois",
+                    "yearly": "Annuel",
+                    "onetime": "Unique",
+                    "one_time": "",
+                    "from": "de"
+                },
+                "tab7": {
+                    "title": "Pièces jointes et consentement",
+                    "note": "On y est presque! Télécharger vos documents pour cette propriété et Consentement au téléchargement de propriété",
+                    "landtitle": "Titre foncier",
+                    "buildingpermit": "Permis de construire",
+                    "plan": "Plan de la maison",
+                    "alertlandtitle": "Téléchargement du titre foncier. S'il vous plaît, attendez...",
+                    "alertpermit": "Téléchargement du permis de construire. S'il vous plaît, attendez..",
+                    "alertplan": "Téléchargement du plan de la maison. S'il vous plaît, attendez..."
+                },
+                "tab8": {
+                    "title": "INSCRIPTION SOUMISE AVEC SUCCÈS",
+                    "publishnote": "Publier la propriété pour la rendre visible sur la page de propriété",
+                    "publish": "Publier",
+                    "note": "Vérifiez votre tableau de bord pour une notification une fois approuvé"
+                }
+            },
+            "addoffplan": {
+                "alerts": {
+                    "charlength": {
+                        "propertyname": "Le nom de la propriété doit comporter plus de 10 caractères",
+                        "yearofcontruction": "Sélectionnez l'année de construction",
+                        "location": "Sélectionner un emplacement",
+                        "description": "La description doit comporter entre 10 et 300 caractères",
+                        "draftsave": "Indiquez au moins le nom de la propriété avant d'enregistrer en tant que brouillon"
+                    },
+                    "addunit": "Ajouter au moins une unité",
+                    "maxunit": "Vous ne pouvez pas ajouter plus de 10 unités",
+                    "propertytype": "Veuillez sélectionner le type de propriété",
+                    "gps": "Sélectionnez la position GPS sur la carte",
+                    "transactiontype": "Sélectionnez le type de transaction",
+                    "propertystatus": "Sélectionnez le statut de la propriété",
+                    "propertysize": "Entrez la taille de la propriété",
+                    "propertysizevalue": "La taille de l'unité doit être supérieure à 0",
+                    "constructionyear": "Entrer l'année de construction",
+                    "furnishing": "Sélectionnez l'option d'ameublement",
+                    "totalroombath": "Le nombre total de chambres et de salles de bain doit être égal ou supérieur à 1",
+                    "cost": "Entrez le coût de la propriété",
+                    "costvalue": "Le coût de l'unité doit être supérieur à 0",
+                    "currency": "Sélectionnez la devise",
+                    "delete": "Voulez-vous vraiment supprimer cette propriété ?"
+                },
+                "button": {
+                    "add": "Ajouter",
+                    "back": "Retour",
+                    "continue": "Continuer",
+                    "submit": "Soumettre l'annonce",
+                    "update": "Mise à jour",
+                    "toproperties": "Emmenez-moi à la propriété",
+                    "addmore": "Ajouter plus d'annonces",
+                    "cancel": "Annuler",
+                    "delete": "Supprimer"
+                },
+                "steps": {
+                    "title": "Ajouter sur plan",
+                    "edit": "Modifier sur plan",
+                    "basic": "Informations de base",
+                    "config": "Configuration de la propriété",
+                    "amenities": "Équipements",
+                    "features": "Caractéristiques uniques",
+                    "gallery": "Galerie",
+                    "payment": "Détails de paiement",
+                    "attachment": "Pièce jointe",
+                    "save": "Enregistrer comme brouillon",
+                    "delete": "Supprimer la propriété"
+                },
+                "tab1": {
+                    "title": "Décrivez votre propriété",
+                    "note": "Aidez les acheteurs à trouver les bonnes informations en fournissant tous les détails importants nécessaires pour vendre rapidement",
+                    "name": "Nom de la propriété",
+                    "nameplaceholder": "Le nom doit comporter plus de 10 caractères",
+                    "yearofconstruction": "Année de construction",
+                    "apartment": "Appartement",
+                    "development": "Développement",
+                    "land": "Terrain",
+                    "commercial": "Commercial",
+                    "shortlet": "Shortlet",
+                    "location": "Emplacement",
+                    "pinlocation": "Épingler l’emplacement en cliquant sur l’endroit exact sur la carte",
+                    "describe": "Décrivez votre propriété",
+                    "describeplaceholder": "La description doit comporter plus de 10 caractères"
+                },
+                "tab2": {
+                    "emptyfields": "Tous les champs sont obligatoires",
+                    "title": "Unités et prix",
+                    "rooms": "Chambre",
+                    "baths": "Salle de bains",
+                    "currency": "Devise",
+                    "ghs": "GHS",
+                    "usd": "USD",
+                    "hide": "Cacher le prix",
+                    "price": "Prix",
+                    "month": "mois",
+                    "squarefoot": "Mètre carré",
+                    "transactiontype": "Type de transaction",
+                    "rent": "Louer",
+                    "sale": "Vente",
+                    "propertystatus": "Statut de la propriété",
+                    "available": "Disponible",
+                    "sold": "Vendu",
+                    "rented": "Loué",
+                    "upload": "Télécharger le plan d'étage",
+                    "click": "Cliquez pour ajouter des photos",
+                    "size": "Taille maximale du fichier : 1 Mo, nombre maximal de photos : 12",
+                    "uploading": "Téléchargement du plan d'étage",
+                    "addmore": "Ajouter plus d’unités",
+                    "nounit": "Aucune unité ajoutée",
+                    "createdunits": "Unités créées"
+                },
+                "tab3": {
+                    "title": "Caractéristiques uniques",
+                    "note": "Sélectionnez les fonctionnalités ci-dessous en cliquant sur la fonctionnalité d'entrée pour ajouter",
+                    "enter": "Entrez la fonctionnalité unique",
+                    "add": "Ajouter",
+                    "alert": "Veuillez fournir une caractéristique"
+                },
+                "tab4": {
+                    "title": "Équipements",
+                    "note": "Informez les acheteurs de toutes les commodités disponibles dans cette propriété pour les aider à décider plus rapidement",
+                    "search": "Rechercher des commodités",
+                    "popular": "Commodités populaires"
+                },
+                "tab5": {
+                    "title": "Photos de la propriété",
+                    "note": "Téléchargez des photos de qualité pour représenter ce que votre propriété a à offrir. De bonnes images peuvent augmenter l'intérêt des clients",
+                    "clickhere": "Cliquez pour ajouter des photos",
+                    "size": "Taille maximale du fichier : 1 MB, nombre maximal de photos : 12",
+                    "image": "Télécharger une image 3D",
+                    "imagenote": "Taille maximale du fichier : 1 MB",
+                    "video": "Télécharger une video",
+                    "videonote": "Taille maximale du fichier : 5 MB",
+                    "upload": "Téléchargement de photos/vidéos de propriété",
+                    "maximages": "Vous pouvez télécharger un maximum de 12 photos seulement"
+                },
+                "tab6": {
+                    "title": "Pièces jointes et consentement",
+                    "note": "Presque là! Téléchargez vos documents pour cette propriété et consentez à télécharger la propriété",
+                    "landtitle": "Titre foncier",
+                    "buildingpermit": "Permis de construire",
+                    "plan": "Plan de la maison",
+                    "alertlandtitle": "Téléchargement du titre foncier. S'il vous plaît, attendez...",
+                    "alertpermit": "Téléchargement du permis de construire. S'il vous plaît, attendez..",
+                    "alertplan": "Téléchargement du plan de la maison. S'il vous plaît, attendez..."
+                },
+                "tab7": {
+                    "title": "INSCRIPTION SOUMISE AVEC SUCCÈS",
+                    "note": "Vérifiez votre tableau de bord pour une notification une fois approuvé"
+                }
+            }
+        },
+        "verify": {
+            "title": "Vérifiez votre adresse email",
+            "instruction": "Vérifiez votre courrier pour vérifier votre compte ReHome.",
+            "button": "Ré-envoyer l'email",
+            "verifynote": "Salut! Cliquez ici pour vérifier l'email",
+            "success": "Votre adresse e-mail a été vérifiée avec succès",
+            "login": "Connectez-vous et cliquez à nouveau sur le lien de vérification dans votre e-mail pour vérifier votre compte"
+        },
+        "onboard": {
+            "next": "Prochain",
+            "back": "Retour",
+            "save": "Enregistrer",
+            "draftmessage": "Vos informations ont été enregistrées pour plus tard",
+            "close": "Finir",
+            "draft": "Enregistrer pour plus tard",
+            "emptyfields": "Tous les champs sont requis",
+            "validemail": "Entrez une adresse e-mail professionnelle valide",
+            "sidenote": {
+                "welcome": "Bienvenu,",
+                "note": "Nous sommes heureux que vous ayez décidé de nous rejoindre et nous espérons que vous tirerez le meilleur parti de tous les outils que nous avons sélectionnés pour vous afin de maximiser les profits sur ReHome.com",
+                "fill": "Remplissez ce formulaire pour commencer"
+            },
+            "tab1": {
+                "title": "Données personnelles",
+                "firstname": "Prénom",
+                "firstnameplaceholder": "Entrez le prénom",
+                "lastname": "Nom",
+                "lastnameplaceholder": "Entrer le nom de famille",
+                "phone": "Numéro de téléphone",
+                "phoneplaceholder": "Entrez le numéro de téléphone",
+                "email": "Adresse e-mail",
+                "profilepicture": "Télécharger une photo de profil",
+                "ghanacard": "Téléchargez la carte du Ghana",
+                "clickbrowse": "Cliquez pour parcourir",
+                "nar": "Numéro N.A.R",
+                "narplaceholder": "Entrez le numéro du N.A.R.",
+                "nardisclaimer": "Avertissement : Sans votre numéro de la National Association of Realtors, vous serez répertorié comme courtier."
+            },
+            "tab2": {
+                "title": "Détails de l'entreprise",
+                "businessname": "Nom de l'entreprise",
+                "businessnameplaceholder": "Nom complet de l'entreprise",
+                "businessphone": "Numéro de téléphone",
+                "address": "Adresse",
+                "addressplaceholder": "Adresse professionnelle",
+                "businessemail": "Courriel professionnel",
+                "location": "Lieu",
+                "locationplaceholder": "Lieu d’affaires",
+                "serviceareas": "Domaines de service",
+                "businessregistration": "Inscription d'entreprise"
+            },
+            "tab3": {
+                "title": "Forfait",
+                "heading": "Choisissez un plan pour commencer",
+                "heading1": "Choisissez un plan",
+                "heading2": "pour commencer",
+                "heading3": "Continuer avec le plan gratuit"
+            },
+            "tab4": {
+                "title": "Bienvenue à bord!",
+                "note": "Cliquez sur terminer pour accéder à votre tableau de bord et commencer à télécharger votre première propriété"
+            }
+        },
+        "gethelp": {
+            "contactus": {
+                "title": "Envoie-nous un message",
+                "subject": "Sujet",
+                "message": "Message",
+                "send": "Envoyer",
+                "emptyfields": "Tous les champs sont obligatoires",
+                "messagesent": "Message envoyé avec succès",
+                "messagenotsent": "Message non envoyé"
+            }
+        },
+        "faq": {
+            "title": "Foire aux questions",
+            "tab1": {
+                "title": "ReHome est-elle une agence immobilière?",
+                "note": "Non, ReHome est une plateforme immobilière dédiée à aider les acheteurs et les vendeurs à se connecter pour des transactions mutuellement bénéfiques."
+            },
+            "tab2": {
+                "title": "Les courtiers sur cette plateforme sont-ils vérifiés?",
+                "note": "Oui, ReHome vérifie tous les courtiers sur sa plateforme en exigeant des documents relatifs à leur profession avant que leurs biens ne soient référencés sur le site."
+            },
+            "tab3": {
+                "title": "Est-ce que ReHome fournit des services hypothécaires?",
+                "note": "ReHome ne fournit pas de financement hypothécaire directement. Cependant, nous offrons des services de soutien pour vous aider à obtenir un financement hypothécaire au Ghana."
+            },
+            "tab4": {
+                "title": "Comment puis-je faire des comparaisons entre les propriétés qui m’intéressent?",
+                "note": "Vous pouvez faire des comparaisons entre les propriétés qui vous intéressent en utilisant notre fonction de liste de souhaits. Cette fonctionnalité vous permet d’enregistrer vos propriétés préférées afin de pouvoir comparer les fonctionnalités des propriétés pour vous aider à prendre une décision. Pour enregistrer une propriété dans votre liste de souhaits, cliquez simplement sur le bouton \"Enregistrer\" lorsque vous consultez les détails d’une propriété sur notre site Web. Vous pouvez ensuite afficher vos propriétés enregistrées en accédant à la section \"Liste de souhaits\" du tableau de bord de votre compte."
+            }
+        },
+        "appealforfraud": {
+            "title": "Appel pour fraude",
+            "note1": "Si vous avez des raisons de croire que quelqu'un a publié une propriété qui vous appartient sur cette plateforme. Veuillez envoyer un e-mail à <b>appeals@rehomeafrica.com</b> contenant le lien vers la propriété et les documents pertinents qui montrent que vous avez, en fait, les droits sur cette propriété",
+            "note2": "<ul><li>Connectez-vous à votre compte sur notre site Web ou créez un compte si vous n'en avez pas.</li><li>Trouvez la propriété ou le courtier que vous pensez être frauduleux et cliquez sur le bouton \"Signaler\" bouton.</li><li>Remplissez le formulaire fourni avec autant d'informations que possible sur le problème, y compris toute preuve de fraude dont vous disposez.</li><li>Soumettez le formulaire et attendez une réponse de notre équipe.</li></ul>",
+            "note3": "Veuillez noter qu’il est important de fournir autant de détails que possible, y compris toute preuve ou documentation, pour nous aider à enquêter sur le problème. Nous prenons tous les rapports de fraude au sérieux et enquêterons rapidement sur la question.",
+            "note4": "Vous pouvez également nous contacter via notre service d’assistance à la clientèle ou nous envoyer un e-mail à info@rehomeafrica.com pour signaler votre incident.",
+            "note5": "Nous apprécions votre aide pour garder notre plate-forme sûre et digne de confiance pour tous les utilisateurs."
+        },
+        "accountverification": {
+            "title": "Vérification de compte",
+            "note1": "En tant que courtier immobilier, il est important de vérifier davantage votre compte sur ReHome pour vous assurer de l’exactitude et de l’authenticité des informations de votre profil. Ce processus prendra au moins une semaine car il nécessite un examen manuel par notre équipe. Si vous vous êtes inscrit et que plus d’une semaine s’est écoulée depuis que vous avez soumis votre demande de vérification, vous pouvez envoyer un e-mail à <b>appeals@rehomeafrica.com</b> pour obtenir de l’aide.",
+            "note2": "En vérifiant votre compte, vous contribuez à maintenir l'intégrité et la crédibilité de la plateforme ReHome. Avoir un compte entièrement vérifié sur ReHome peut vous être bénéfique de plusieurs façons. Il peut accroître la confiance des clients potentiels et vous aider à vous démarquer sur un marché encombré. Il peut également vous donner accès à des fonctionnalités et des ressources exclusives sur la plateforme, qui ne sont pas forcément accessibles aux utilisateurs non vérifiés. En vérifiant votre compte, vous pouvez améliorer votre réputation professionnelle et tirer le meilleur parti de votre présence sur la plateforme ReHome."
+        },
+        "banner": {
+            "mainText": "Il est désormais facile de trouver la maison de ses rêves.",
+            "subText": "Parcourez nos propriétés de qualité et abordables pour trouver la maison de vos rêves dès aujourd'hui.",
+            "subText_buy": "Parcourez notre sélection de propriétés à vendre.",
+            "subText_rent": "La location simplifiée : explorez, sélectionnez, appréciez.",
+            "subText_shortlet": "Trouvez votre location à court terme parfaite.",
+            "subText_off-plan": "Explorez les propriétés sur plan pour des investissements intelligents.",
+            "searchPlaceholder": "Entrez dans le quartier ou la ville",
+            "featuredproperties": "Propriétés vedettes",
+            "completeprofile": {
+                "title": "Complète ton profil",
+                "paragraph1": "Il semble que vous n'ayez pas complété votre profil d'utilisateur. Garder un profil utilisateur complet permet d'avoir une meilleure expérience sur la plateforme ReHome.",
+                "paragraph2": "Prenez quelques minutes de votre temps pour compléter votre profil d'utilisateur.",
+                "button": "Profil complet"
+            }
+        },
+        "sectionone": {
+            "buy": "Acheter une maison",
+            "rent": "Louer une Maison",
+            "sell": "Vendre une Maison",
+            "buysubText": "Cliquez sur le bouton ci-dessous pour rechercher des maisons à vendre au Ghana.",
+            "rentsubText": "Cliquez maintenant et découvrez les nouvelles propriétés à louer au Ghana.",
+            "sellsubText": "Inscrivez-vous maintenant et vendez vos propriétés à un vaste réseau d'acheteurs de maisons ghanéens à l'étranger.",
+            "button": "Commencer ici"
+        },
+        "sectiontwo": {
+            "maintext": "Concluez les bonnes affaires.<br/>Atteindre les bons clients",
+            "subtextone": "Ne manquez pas cette vente parfaite! Atteignez un public plus large du monde entier grâce à nos outils hautement compétents pour vous aider à conclure des affaires. Cliquez sur le bouton ci-dessous pour commencer!",
+            "subtexttwo": "Pistes de qualité pour votre pipeline de ventes",
+            "subtextthree": "Des outils de gestion immobilière de classe mondiale pour vous aider à vendre",
+            "subtextfour": "Les tarifs les plus avantageux pour les courtiers afin d'annoncer les propriétés",
+            "button": "Annoncer"
+        },
+        "sectionthree": {
+            "maintext": "Téléchargez l’application ReHome aujourd’hui!",
+            "subtext": "Faites l’expérience d’une recherche de propriété sans tracas avec plus d’outils supplémentaires pour vous aider à trouver la maison parfaite."
+        },
+        "footer": {
+            "menu": "Menu",
+            "buy": "Acheter",
+            "rent": "Louer",
+            "sell": "Vendre",
+            "offplan": "Sur Plan",
+            "shortlet": "Shortlet",
+            "mortgage": "Hypothèque",
+            "findanAgent": "Trouver un Courtier",
+            "blog": "Blog",
+            "company": "Société ",
+            "aboutus": "Qui sommes-nous",
+            "careers": "Carrières",
+            "help": "Aide",
+            "advertise": "Annoncez",
+            "contactus": "Contactez-nous",
+            "legal": "Légal",
+            "privacypolicy": "Politique de confidentialité",
+            "termsconditions": "Termes et Conditions",
+            "legalhelp": "Aide",
+            "faq": "FAQ",
+            "datarequest": "Demande de données",
+            "download": "Téléchargez les applications ReHome"
+        },
+        "filter": {
+            "selectall": "Sélectionner tout",
+            "search": "Saisir un lieu",
+            "search2": "Recherche",
+            "transactiontype": {
+                "forsale": "À vendre",
+                "sale": "Vente",
+                "forrent": "A louer",
+                "rent": "Louer",
+                "offplan": "Sur plan"
+            },
+            "location": {
+                "title": "Lieu",
+                "radius": "Rayon"
+            },
+            "propertytype": {
+                "title": "Type de propriété",
+                "all": "Tout",
+                "houses": "Maison",
+                "house": "Maison",
+                "apartment": "Appartement",
+                "apartments": "Appartement",
+                "commercial": "Commercial",
+                "shortlets": "Shortlet",
+                "lands": "Terrains",
+                "land": "Terrains",
+                "development": "Développement"
+            },
+            "bedbath": {
+                "title": "Lit & bain",
+                "bedrooms": "Chambres",
+                "bathrooms": "Salles de Bains",
+                "bath": "Bain",
+                "any": "N’importe quel"
+            },
+            "budget": {
+                "title": "Budget",
+                "heading1": "Choisissez une devise",
+                "heading2": "Fixer Le Budget",
+                "minprice": "Prix ​​min",
+                "maxprice": "Prix ​​max"
+            },
+            "sort": {
+                "title": "Trier",
+                "mostrecent": "Le plus récents",
+                "recent": "Le plus récents",
+                "popularity": "Popularité",
+                "price": "Prix",
+                "size": "Taille",
+                "orderby": "Commande",
+                "ascending": "Ascendant",
+                "descending": "Descendant"
+            },
+            "more": {
+                "title": "Plus",
+                "titleMobile": "Filtre",
+                "heading1": "Taille (de m²)",
+                "select": "Sélectionner les équipements"
+            }
+        },
+        "buyrent": {
+            "showing": "Afficher {{start}} - {{end}} des résultats {{number}}",
+            "nolisting": "Aucune annonce immobilière n'a été trouvée pour cette recherche",
+            "recommendedlisting": "Listes recommandées à proximité de votre lieu de résidence",
+            "notfinding": "Vous ne trouvez pas ce que vous voulez ?",
+            "requestproperty": "Vous ne trouvez pas ce que vous cherchez ?",
+            "sponsored": "Sponsorisé",
+            "map": "Carte",
+            "list": "Liste"
+        },
+        "sell": {
+            "banner": {
+                "maintext": "Vendre Sa Maison",
+                "subtext": "Ouvrez vos portes à de nouvelles possibilités commerciales et connectez-vous avec des chasseurs de maisons au Ghana, aux États-Unis, au Royaume-Uni, en France et aux Pays-Bas. Cliquez sur le bouton ci-dessous pour commencer!",
+                "question": "Êtes-vous un courtier, un agent immobilier ou un développeur ?",
+                "button": "S'inscrire"
+            },
+            "section1": {
+                "card1": {
+                    "title": "Vendre ses propres biens (FSBO)",
+                    "button": "Commencez ici"
+                },
+                "card2": {
+                    "title": "Vendre avec un agent immobilier ReHome",
+                    "button": "Commencez ici"
+                },
+                "card3": {
+                    "title": "Devenir agent immobilier ReHome",
+                    "button": "Commencez ici"
+                }
+            },
+            "section2": {
+                "title": "Pourquoi vendre sur ReHome?",
+                "note": "Notre approche marketing unique garantit la visibilité de vos biens immobiliers auprès des acheteurs potentiels à Accra, Tema et dans d'autres villes du Ghana. En inscrivant vos biens sur ReHome, vous faites un pas de plus vers la vente."
+            },
+            "marketing": {
+                "title": "Commercialisation de votre propriété",
+                "note": "Nos courtiers ReHome ont accès à une technologie de pointe et à des stratégies de marketing, et possèdent les connaissances et l'expertise nécessaires pour vous aider à vendre votre maison. Voici quelques faits saillants :",
+                "grid1": {
+                    "title": "Inscription en ligne pour votre maison",
+                    "note": "Les annonces en ligne contiennent des informations spécifiques à chaque propriété et à la zone environnante, ainsi qu'une image de la propriété. Outil marketing inestimable, l'image du bien donne aux acheteurs potentiels un aperçu instantané, ce qui fait gagner du temps et suscite visuellement l'intérêt."
+                },
+                "grid2": {
+                    "title": "Présence mobile",
+                    "note": "Les acheteurs potentiels pourront accéder à la même excellente technologie de recherche disponible sur notre site Web lors de leurs déplacements ! Notre application de recherche de maison est disponible pour les appareils iOS et Android, augmentant ainsi la possibilité de montrer votre maison aux acheteurs potentiels n'importe où et à tout moment."
+                },
+                "grid3": {
+                    "title": "Le marketing avancé",
+                    "note": "Nous avons des stratégies marketing et numériques avancées qui peuvent aider à générer plus de trafic vers votre annonce. Le réseau de courtiers de ReHome est l'un des plus importants au pays et peut être une excellente ressource pour faire connaître votre propriété par le bouche à oreille, le marketing en ligne et d'autres opportunités publicitaires."
+                }
+            },
+            "form": {
+                "title": "Pour commencer, veuillez remplir le formulaire ci-dessous",
+                "location": "Où se trouve la propriété",
+                "age": "Quel est l'âge de votre bien ?",
+                "propertytype": "Type de propriété",
+                "transactiontype": "Type de transaction",
+                "paymenttype": "Type de paiement",
+                "timeline": "Calendrier des ventes",
+                "selectagent": "Choisissez un ou plusieurs courtiers pour vous aider à réaliser une vente rapide",
+                "thankyou": "Merci de nous avoir choisi",
+                "endnote": "Vos informations ont été partagées avec courtier sélectionné. Le courtier vous contactera pour toute clarification supplémentaire.",
+                "next": "Prochain",
+                "save": "Sauvegarder",
+                "close": "Fermer",
+                "emptyfield": "Ce champ est obligatoire",
+                "clickagent": "Sélectionner un courtier"
+            }
+        },
+        "singleproperty": {
+            "verified": "courtier vérifié",
+            "gallery": "Galerie",
+            "viewphotos": "Voir {{number}} photo(s)",
+            "viewplan": "Voir le plan",
+            "tab1": {
+                "title": "Partager",
+                "propertyname": "Nom du Bien",
+                "price": "Prix",
+                "size": "Taille de la propriété",
+                "sizeLand": "Taille du terrain",
+                "bedrooms": "Chambres à coucher",
+                "bathrooms": "Salles de bains",
+                "datelisted": "Date d'inscription"
+            },
+            "tab2": {
+                "title": "Sauvegarder",
+                "popup": {
+                    "title": "Créer une liste de souhaits",
+                    "note": "Curate à votre goût. Partagez facilement votre liste de souhaits avec votre famille et vos amis",
+                    "start": "Démarrer",
+                    "cancel": "Annuler"
+                }
+            },
+            "tab3": {
+                "title": "Aperçu",
+                "year": "Année de construction",
+                "estimate": "Estimation ReHome",
+                "descriptiontitle": "Description",
+                "description": "Description de la propriété",
+                "houseplan": "Plan de la maison",
+                "buttons": {
+                    "schedule": "Planifier une visite",
+                    "verify": "Vérification de la propriété",
+                    "mortgage": "Facilités hypothécaires"
+                }
+            },
+            "tab4": {
+                "title": "Équipements",
+                "note": "Il y a {{number}} équipements disponibles dans cet établissement"
+            },
+            "tab5": {
+                "title": "Caractéristiques",
+                "note": "Il y a {{number}} caractéristiques de propriété disponibles dans cette installation."
+            },
+            "tab6": {
+                "title": "Carte",
+                "note": "Emplacement du bien"
+            },
+            "tab7": {
+                "title": "Code QR",
+                "note": "Code QR de la propriété"
+            }
+        },
+        "offplan": {
+            "title": "Propriétés<br/>Sur Plan",
+            "tag": "Développement",
+            "nodata": "Aucune propriété sur plan n'a été trouvée",
+            "developer": "Développeur",
+            "itemtag": "Sur<br/>Plan",
+            "singleoffplan": {
+                "sidebar": {
+                    "contact": {
+                        "title": "Contacter",
+                        "developernote": "Envoyer un e-mail au développeur",
+                        "agentnote": "Envoyer un e-mail au courtier",
+                        "call": "Appel",
+                        "validphone": "Entrez un numéro de téléphone valide",
+                        "error": "Erreur lors de l'envoi du message, réessayer plus tard",
+                        "whatsapp": "WhatsApp",
+                        "button": "Envoyer",
+                        "sendto": "Envoyer à",
+                        "emptyfields": "Tous les champs sont requis",
+                        "checkone": "Cochez au moins une case ou saisissez un message",
+                        "p1": "Bonjour, je m'appelle",
+                        "p2": "et je suis intéressé par votre",
+                        "p3": "Je vous contacte depuis",
+                        "p4": "et vous pouvez me joindre par",
+                        "p5": " et ",
+                        "p6": "Ce bien est-il disponible?",
+                        "p7": "Quelles sont les modalités de paiement disponibles?",
+                        "p8": "Quand puis-je voir ce bien?"
+                    },
+                    "share": "Partager",
+                    "save": "Sauvegarder",
+                    "saved": "Enregistré",
+                    "pictures": "Photos",
+                    "video": "Vidéo’’",
+                    "3dtour": "Tour 3D"
+                },
+                "mainheader": {
+                    "tab1": "Détails Généraux",
+                    "tab2": "Unités et Prix",
+                    "tab3": "Détails du développeur"
+                },
+                "buttons": {
+                    "schedule": "Planifier une visite",
+                    "verify": "Vérification de la propriété",
+                    "mortgage": "Facilités hypothécaires",
+                    "nodocs": "Aucun document vérifié"
+                },
+                "general": {
+                    "verifydocs": {
+                        "title": "Documents vérifiés par ReHome",
+                        "landtitle": "Titre foncier",
+                        "buildingpermit": "Permis de construire",
+                        "houseplan": "Plan de la maison"
+                    },
+                    "tab1": {
+                        "title": "À propos de",
+                        "about": "A propos de ce hors-plan",
+                        "location": "Lieu"
+                    },
+                    "tab2": {
+                        "title": "Équipements",
+                        "note": "Il y a {{number}} équipements disponibles dans cet établissement"
+                    },
+                    "tab3": {
+                        "title": "Caractéristiques",
+                        "note": "Il y a {{number}} fonctionnalités disponibles dans cette installation"
+                    },
+                    "tab4": {
+                        "title": "Point d'intérêt"
+                    }
+                },
+                "pricing": {
+                    "tab1": {
+                        "title": "Studio",
+                        "estimate": "Estimation ReHome",
+                        "completion": "Année d'achèvement",
+                        "view": "Voir les plans d'étage",
+                        "bedroom": "Chambre à coucher",
+                        "notavailable": "Non disponible",
+                        "sizenotavailable": "Taille Non Disponible",
+                        "yearnotavailable": "Année Non Disponible"
+                    }
+                }
+            }
+        },
+        "mortgage": {
+            "calculator": {
+                "circle": {
+                    "title": "Calculatrice Hypothécaire",
+                    "note": "Besoin d'un prêt hypothécaire? Utilisez notre calculatrice hypothécaire pour prendre une décision éclairée"
+                },
+                "form": {
+                    "year": "année",
+                    "alert": "Tous les champs sont requis",
+                    "q1": "1. Où en êtes-vous dans le processus?",
+                    "q1placeholder": "Sélectionnez",
+                    "q1option1": "Juste en train de faire des recherches",
+                    "q1option2": "SPA (contrat de vente et d'achat)",
+                    "q2": "2. Entrez l'emplacement de la propriété",
+                    "q3": "3. Entrez la valeur de la maison",
+                    "q4": "4. Entrez votre salaire mensuel",
+                    "q5": "5. Choisir le délai de remboursement",
+                    "q6": "6. Entrez le dépôt initial sur la propriété",
+                    "q7": "7. Quel âge avez-vous?",
+                    "button": "Calculer",
+                    "needhelp": "Besoin d'aide? Envoyez-nous un e-mail"
+                },
+                "result": {
+                    "eligible": "Vous êtes admissible",
+                    "noteligible": "Vous n'êtes pas admissible",
+                    "noteligiblereason": "Vous n'êtes pas éligible car le montant de la mensualité est supérieur à 30 % de votre salaire",
+                    "monthlypayment": "Paiement mensuel",
+                    "disclaimer": "Clause de non-responsabilité",
+                    "note": "Cette calculatrice est fournie à titre informatif uniquement. Vous ne devriez pas prendre de décisions simplement en fonction des informations fournies",
+                    "rate": "Taux d'intérêt actuel",
+                    "banks": "Banques hypothécaires",
+                    "specialist": "Contacter un spécialiste en hypothèques",
+                    "startover": "Recommencer"
+                }
+            },
+            "banner": {
+                "maintext": "Meilleure hypothèque pour la maison de vos rêves",
+                "subtext": "Votre maison est plus qu'un lieu de vie. C'est un investissement dans un avenir meilleur. Nous vous aiderons à débloquer une meilleure maison et à la faire fonctionner pour vous.",
+                "button": "Calculateur d'hypothèque"
+            },
+            "types": {
+                "tab1": {
+                    "title": "Premiers Acheteurs",
+                    "note": "Une première maison est un moment excitant. Les conseils hypothécaires professionnels sont un excellent point de départ."
+                },
+                "tab2": {
+                    "title": "Refinancement hypothécaire",
+                    "note": "Profitez de taux plus bas ou débloquez la valeur nette de votre maison pour des investissements"
+                },
+                "tab3": {
+                    "title": "Prêts hypothécaires",
+                    "note": "Nous avons accès à un large éventail d'options de financement pour répondre à vos besoins de rénovation domiciliaire."
+                }
+            },
+            "allinone": {
+                "maintext": "Le tout-en-un<br/>c'est mieux",
+                "subtext": "Nous rationalisons et simplifions la façon dont vous trouvez, achetez, vendez, refinancez et clôturez un prêt",
+                "card": {
+                    "title": "Meilleure couverture+",
+                    "point1": "Meilleure couverture | Assurance",
+                    "point2": "Meilleurs services d'établissement | Titre et conclusion"
+                }
+            },
+            "learnmore": {
+                "note": "Vous achetez un nouveau logement ? Découvrez comment vous pouvez bénéficier d'un prêt hypothécaire.",
+                "button": "Apprendre encore plus"
+            },
+            "goodthings": {
+                "title": "Toutes les bonnes choses qui viennent avec la possession d'une maison",
+                "button": "Trouve plus",
+                "tab1": {
+                    "title": "Assurance habitation",
+                    "note": "Liste des meilleurs <br />assureurs habitation"
+                },
+                "tab2": {
+                    "title": "Amélioration de l'habitat",
+                    "note": "Meilleure amélioration de la maison<br />"
+                },
+                "tab3": {
+                    "title": "Meubles",
+                    "note": "Meilleures entreprises de meubles<br/>"
+                }
+            }
+        },
+        "findanagent": {
+            "banner": {
+                "maintext": "Courtiers de ReHome",
+                "subtext": "ReHome met à votre disposition des courtiers de confiance et des agents immobiliers certifiés qui vous aideront à acheter ou à louer un appartement, une maison de ville ou une maison de luxe au Ghana.",
+                "button": "Devenir courtier"
+            },
+            "mainpage": {
+                "clear": "Effacer la recherche",
+                "searchplaceholder": "Entrez le nom ou l'emplacement de courtier",
+                "all": "Tous",
+                "agent": "Courtier",
+                "realtor": "Immobilier",
+                "developer": "Développeur",
+                "noagent": "Aucun Résultat",
+                "testimonials": {
+                    "title": "Témoignages",
+                    "say": "Ce que disent nos clients",
+                    "testimony": "Dans la promotion et la publicité, un témoignage ou un spectacle consiste en une déclaration écrite ou orale d'une personne vantant les vertus d'un produit. Le terme « témoignage » s'applique le plus souvent aux arguments de vente attribués aux citoyens ordinaires, tandis que le mot « approbation » s'applique généralement aux arguments des célébrités."
+                }
+            },
+            "singleagent": {
+                "message": "Message",
+                "button": "Envoyer",
+                "contact": "CONTACT",
+                "properties": "PROPRIÉTÉS CLASSÉES",
+                "completeprofile": "Complétez votre profil pour vous permettre de contacter un courtier",
+                "emptymessage": "Le champ Message est obligatoire",
+                "messagesent": "Message envoyé avec succès",
+                "messagenotsent": "Message non envoyé",
+                "contactagent": "Contact",
+                "contactagentforprice": "Contactez le courtier pour le prix"
+            }
+        },
+        "help": {
+            "banner": "Comment pouvons-nous aider?",
+            "title": "Explorer la base de connaissance",
+            "looking": "Vous voulez faire de la publicité?",
+            "cantfind": "Vous ne trouvez pas la réponse?",
+            "types": {
+                "agent": {
+                    "title": "Courtier/Immobilier/Développeur",
+                    "note": "Nous sommes là pour vous aider à réussir dans l'immobilier. De la recherche de prospects à la conclusion de transactions, notre plateforme fournit les outils dont vous avez besoin pour rationaliser votre flux de travail et entrer en contact avec des acheteurs et des vendeurs motivés. Consultez la section FAQ ci-dessous pour plus de détails et les réponses aux questions les plus fréquentes.",
+                    "questions": {
+                        "q1": {
+                            "title": "Comment inscrire mes biens sur le site web?",
+                            "answer": "Pour inscrire vos biens sur le site, vous devez d'abord créer un compte. Pour ce faire, naviguez dans la barre de menu et cliquez sur le bouton \"S'inscrire\". Choisissez le type d'utilisateur approprié et créez un compte avec votre adresse électronique."
+                        },
+                        "q2": {
+                            "title": "Quels types de biens puis-je inscrire sur votre site web?",
+                            "answer": "Notre plateforme est dédiée à l'immobilier résidentiel et vous permet de proposer des maisons, des appartements, des unités sur plan et des terrains."
+                        },
+                        "q3": {
+                            "title": "Comment puis-je gérer mes inscriptions sur votre site web?",
+                            "answer": "Vous pouvez gérer vos annonces en créant un compte et en accédant au tableau de bord, où vous pouvez ajouter, modifier, archiver ou supprimer des annonces selon vos besoins."
+                        },
+                        "q4": {
+                            "title": "Comment puis-je obtenir plus de visibilité pour mes annonces sur votre site web?",
+                            "answer": "Vous pouvez accroître la visibilité de vos annonces en les optimisant avec des informations précises et détaillées, y compris des photos de haute qualité. Vous pouvez également promouvoir vos annonces pour une meilleure visibilité."
+                        },
+                        "q5": {
+                            "title": "Comment puis-je promouvoir mes annonces pour une meilleure visibilité?",
+                            "answer": "Vous pouvez obtenir plus de visibilité en promouvant vos annonces via votre compte ReHome. Il vous suffit de vous connecter à votre compte et de vous rendre dans la rubrique \"annonces\". Sélectionnez le(s) annonce(s) dont vous souhaitez améliorer la visibilité et cliquez sur le bouton \"Promouvoir la sélection\". Un message s'affiche avec une liste d'options de promotion à choisir. Sélectionnez l'option de votre choix et cliquez sur le bouton \"Voir le panier\". Vous serez redirigé vers une page de paiement pour terminer le processus. Vous pouvez également envisager d'améliorer votre abonnement existant pour une meilleure visibilité."
+                        },
+                        "q6": {
+                            "title": "Quel est le coût de l'inscription de mes biens sur votre site web?",
+                            "answer": "Nous proposons différentes formules d'abonnement dont les caractéristiques et les prix varient. Par exemple, l'offre Courtier Light est idéale pour les clients ayant jusqu'à cinq annonces immobilières. La formule Courtier Plus est idéale pour les clients ayant jusqu'à 20 biens immobiliers. Le plan Realtor offre aux clients un nombre illimité d'annonces immobilières, tandis que le plan Developer est idéal pour les promoteurs immobiliers qui cherchent à promouvoir leurs projets de développement pour obtenir des résultats optimaux."
+                        },
+                        "q7": {
+                            "title": "Puis-je recevoir des notifications lorsqu'un acheteur ou un locataire potentiel me contacte au sujet de mon annonce?",
+                            "answer": "Oui, vous recevrez un enregistrement de lead qui déclenchera automatiquement une notification in-app et une notification par email."
+                        },
+                        "q8": {
+                            "title": "Comment puis-je suivre les performances de mes annonces sur votre site web?",
+                            "answer": "Vous pouvez suivre les performances de vos annonces en accédant au tableau de bord des statistiques, où vous pouvez consulter des indicateurs tels que les clics, la portée et les prospects."
+                        },
+                        "q9": {
+                            "title": "Comment puis-je accéder aux prospects générés par mes annonces sur votre site web?",
+                            "answer": "Vous pouvez accéder à tous les prospects générés sur ReHome à partir de votre page de statistiques. Les leads apparaîtront également dans la boîte de réception de l'adresse email connectée à votre compte ReHome."
+                        }
+                    }
+                },
+                "seekers": {
+                    "title": "Chercheurs de maison",
+                    "note": "Bienvenue aux chercheurs de logement ! Trouvez la maison de vos rêves grâce aux fonctions de recherche avancées et aux listes complètes de notre plateforme. Notre personnel compétent peut vous guider tout au long du processus, et notre plateforme intuitive vous permet d'enregistrer facilement vos annonces préférées et de recevoir des alertes sur les nouvelles propriétés. Consultez nos FAQ ci-dessous.",
+                    "questions": {
+                        "q1": {
+                            "title": "Comment rechercher des biens immobiliers sur le site web?",
+                            "answer": "Pour rechercher des biens immobiliers sur le site, vous pouvez utiliser la barre de recherche pour indiquer votre lieu de prédilection. Vous pouvez également affiner votre recherche en fonction du type de transaction, du type de propriété, du budget, du nombre de chambres, de la requête de tri et d'autres critères. Vous pouvez également utiliser la fonction de carte pour rechercher des biens dans une zone spécifique."
+                        },
+                        "q2": {
+                            "title": "Quels sont les types de biens immobiliers disponibles sur le site?",
+                            "answer": "Le site propose une variété de propriétés résidentielles, notamment des maisons individuelles et jumelées, des appartements, des maisons de ville et des terrains."
+                        },
+                        "q3": {
+                            "title": "Êtes-vous propriétaire d'un des biens immobiliers figurant sur le site web?",
+                            "answer": "Non, ce n'est pas le cas. Nous sommes une plateforme immobilière qui met en relation les personnes à la recherche d'un bien avec les propriétaires et les courtiers. Notre site web sert de plateforme aux propriétaires et aux courtiers pour inscrire leurs biens, tandis que les acheteurs ou les locataires potentiels peuvent consulter les annonces et contacter directement les propriétaires ou les courtiers."
+                        },
+                        "q4": {
+                            "title": "Est-il possible d'enregistrer une liste de mes propriétés préférées sur le site web?",
+                            "answer": "Oui, il est possible d'enregistrer une liste de vos sélections de biens préférés sur notre site web. Pour ce faire, il vous suffit de créer un compte ReHome et de vous connecter. Ensuite, naviguez jusqu'à l'annonce du bien qui vous intéresse et cliquez sur le bouton \"Ajouter à la liste\". Vous pouvez y accéder à tout moment en cliquant sur l'onglet \"[nom descriptif]\" de votre compte."
+                        },
+                        "q5": {
+                            "title": "Quelles sont les différentes options de paiement disponibles lors de l'achat ou de la location d'un bien immobilier?",
+                            "answer": "Les options de paiement comprennent le paiement en espèces, le virement bancaire et parfois des plans de paiement échelonnés ou des prêts hypothécaires. Les options de paiement peuvent varier en fonction du vendeur ou de courtier."
+                        },
+                        "q6": {
+                            "title": "Comment trouver un courtier sur le site web?",
+                            "answer": "Pour trouver un courtier sur notre site web, allez dans la barre de menu et cliquez sur le menu \"Trouver un Courtier\". Vous pouvez parcourir notre liste des courtiers vérifiés, consulter leurs profils et contacter directement les courtiers de votre choix."
+                        },
+                        "q7": {
+                            "title": "Quels sont les prix actuels de l'immobilier au Ghana?",
+                            "answer": "Les prix de l'immobilier au Ghana varient en fonction de la localisation, du type et de l'état de la propriété. Vous pouvez consulter le site web pour vous faire une idée des prix actuels des biens immobiliers ou contacter l'un de nos courtiers vérifiés pour obtenir des informations plus précises."
+                        },
+                        "q8": {
+                            "title": "Comment puis-je contacter le vendeur ou le courtier d'un bien immobilier?",
+                            "answer": "Il vous sera demandé de vous connecter avec l'adresse e-mail avec laquelle vous vous êtes enregistré sur le site web de ReHome. Tout d'abord, cliquez sur l'icône de contact sur la page de l'annonce. Vous serez redirigé vers la page de connexion pour créer un compte. Si vous avez déjà un compte, connectez-vous avec vos identifiants. Les coordonnées du contact apparaîtront une fois cette opération terminée."
+                        },
+                        "q9": {
+                            "title": "La création d'un compte ReHome entraîne-t-elle des frais?",
+                            "answer": "Non. L'enregistrement d'un compte pour les particuliers est totalement gratuit!"
+                        },
+                        "q10": {
+                            "title": "Fournissez-vous des services de soutien à l'immobilier?",
+                            "answer": "Oui, nous proposons une gamme de services immobiliers payants. Nos services comprennent la gestion immobilière, la photographie et la vidéographie professionnelles, les visites virtuelles, les services de home staging, la décoration d'intérieur, les services de conseil immobilier, etc."
+                        },
+                        "q11": {
+                            "title": "Fournissez-vous un financement hypothécaire?",
+                            "answer": "Non, nous ne le faisons pas. Cependant, nous disposons d'une liste de partenaires hypothécaires recommandés qui peuvent fournir un financement hypothécaire aux acheteurs qualifiés. Nous proposons également des services d'assistance hypothécaire payants pour vous aider dans le processus de demande de prêt hypothécaire. Veuillez noter que tout financement hypothécaire obtenu par l'intermédiaire de notre site web le sera par l'intermédiaire de partenaires tiers et non directement par nous."
+                        },
+                        "q12": {
+                            "title": "Quels sont les services de soutien hypothécaire que vous proposez?",
+                            "answer": "Nous offrons une gamme de services de soutien hypothécaire pour aider les demandeurs tout au long du processus hypothécaire, y compris l'aide à la préqualification, l'aide à la demande, la comparaison des taux hypothécaires, la coordination de la clôture et l'aide au refinancement. Veuillez noter que ces services sont payants."
+                        },
+                        "q13": {
+                            "title": "Avez-vous une application sur le Google Play Store et l'Apple App Store?",
+                            "answer": "Non, nous n'avons pas d'application mobile disponible pour le moment."
+                        },
+                        "q14": {
+                            "title": "Comment puis-je signaler une activité suspecte ou frauduleuse sur votre site web?",
+                            "answer": "Vous pouvez signaler toute activité suspecte ou frauduleuse en contactant immédiatement notre équipe d'assistance à la clientèle. Nous prenons tous les rapports au sérieux et enquêtons sur toute activité frauduleuse présumée."
+                        },
+                        "q15": {
+                            "title": "De quels documents ai-je besoin pour acheter ou louer un bien immobilier au Ghana?",
+                            "answer": "Les documents requis pour acheter ou louer une propriété au Ghana peuvent inclure une pièce d'identité valide, une preuve de revenu, des relevés bancaires et d'autres documents pertinents. Il est préférable de consulter un courtier immobilier ou un avocat pour plus de détails."
+                        },
+                        "q16": {
+                            "title": "Comment savoir si un bien immobilier est bien situé ?",
+                            "answer": "Les facteurs qui peuvent indiquer un bon emplacement sont la proximité de commodités telles que les écoles, les hôpitaux, les centres commerciaux et les transports, ainsi qu'un faible taux de criminalité, de bonnes infrastructures et un environnement serein."
+                        },
+                        "q17": {
+                            "title": "Comment savoir si un bien est disponible à la vente ou à la location?",
+                            "answer": "Tous les biens immobiliers figurant sur notre site sont disponibles à la vente et à la location. Les biens qui ne sont plus disponibles sont soit signalés comme tels, soit retirés de la plate-forme. En outre, vous pouvez contacter le vendeur ou le courtier pour obtenir une confirmation."
+                        },
+                        "q18": {
+                            "title": "Quels sont les meilleurs quartiers pour vivre à Accra?",
+                            "answer": "Cela peut dépendre des préférences et des besoins personnels, mais certains quartiers populaires du Ghana comprennent East Legon, Airport Residential Area, Cantonments et Labone."
+                        }
+                    }
+                },
+                "owners": {
+                    "title": "Propriétaires de maisons",
+                    "note": "Bienvenue aux propriétaires ! Utilisez les ressources de notre plateforme, que vous cherchiez à vendre ou à louer votre propriété. Notre équipe de professionnels expérimentés peut vous aider à naviguer sur le marché et à mettre en valeur votre propriété grâce à des photos et des descriptions de haute qualité. Pour plus d'informations, consultez notre section FAQ ci-dessous.",
+                    "questions": {
+                        "q1": {
+                            "title": "Comment puis-je faire figurer mon bien sur le site web en tant que propriétaire privé?",
+                            "answer": "Pour inscrire votre propriété sur notre site web en tant que propriétaire privé, vous devez contacter l'un de nos courtiers vérifiés sur la plateforme pour qu'il commercialise votre propriété en votre nom. Pour contacter un courtier, cliquez sur le bouton \"vendre\" dans la barre de menu. Allez jusqu'au bas de la page et remplissez le formulaire. Suivez les instructions jusqu'à la fin et sélectionnez l'un de nos courtiers disponibles. Cliquez sur le bouton \"Enregistrer\" pour terminer le processus. Le courtier vous contactera dès que possible pour négocier avec vous les conditions de la transaction. Une fois satisfait, il inscrira votre bien sur ReHome."
+                        },
+                        "q2": {
+                            "title": "Puis-je inscrire gratuitement mon bien en tant que particulier?",
+                            "answer": "Oui, l'inscription d'un bien immobilier en tant que particulier est totalement gratuite ! Cependant, tous les propriétaires individuels sont tenus d'inscrire leurs biens par l'intermédiaire d'un courtier vérifié par ReHome, qui peut percevoir une commission."
+                        },
+                        "q3": {
+                            "title": "Facturez-vous des frais pour me mettre en contact avec un courtier?",
+                            "answer": "Non, c'est absolument gratuit ! Une fois que vous êtes satisfait de le courtier que vous avez choisi, vous êtes libre de négocier des honoraires ou des commissions directement avec lui. Veuillez noter que nous n'assumons aucune responsabilité pour les transactions entre un courtier et un propriétaire."
+                        },
+                        "q4": {
+                            "title": "Puis-je encore accéder aux ressources de votre site web en tant que propriétaire privé?",
+                            "answer": "Oui, vous pouvez toujours accéder aux ressources de notre site web, telles que les rapports sur le marché immobilier, les guides et les articles de blog à des fins d'information et de recherche personnelles."
+                        }
+                    }
+                }
+            },
+            "videos": {
+                "title": "Vidéos d'instruction",
+                "v1": "Remplir le formulaire Vendre à un particulier",
+                "v2": "Comment contacter un courtier pour les acheteurs",
+                "v3": "Connexion avec les acheteurs pour les courtiers/développeurs",
+                "v4": "Ajout d'une inscription hors plan pour le développeur",
+                "v5": "Ajout d'une liste le courtier/développeurs",
+                "v6": "Ajout/gestion d'une liste de souhaits pour l'acheteur",
+                "v7": "Comment s'inscrire et intégrer un Courtier/Immobilier/Développeur?"
+            }
+        },
+        "advertise": {
+            "banner": {
+                "title": "Publicité Des Courtiers Immobiliers",
+                "note": "Lorsque vous passez une annonce avec ReHome, vous avez accès au plus grand réseau immobilier en ligne au Ghana et au-delà. Commencez à vous connecter en direct avec des acheteurs actifs dès aujourd'hui !"
+            },
+            "section1": {
+                "title": "Se connecter aux acheteurs en temps réel",
+                "note": "Vous cherchez à maximiser vos ventes immobilières ? Ne cherchez pas plus loin que la connexion avec les acheteurs en temps réel ! Avec cet outil puissant à votre disposition, vous pouvez vous engager avec des acheteurs potentiels comme jamais auparavant, en leur fournissant le service personnalisé et l'attention qu'ils recherchent.",
+                "button": "Commencer la Connexion"
+            },
+            "section2": {
+                "title": "Gestion D'entreprise Simplifiée",
+                "note": "Nous simplifions le processus d'achat d'une maison en utilisant la technologie et l'expertise pour mettre en relation les acheteurs avec les agences et courtiers immobiliers adéquats. Notre plateforme offre un accès facile aux dernières annonces immobilières, et notre équipe de professionnels expérimentés fournit des conseils et un soutien à chaque étape du processus."
+            },
+            "section3": {
+                "title": "Gestion des prospects et<br/> suivi des performances",
+                "note": "Notre équipe expérimentée peut vous aider à rationaliser votre processus de gestion des prospects et à suivre les performances de votre équipe pour s'assurer que vous atteignez vos objectifs. Grâce à nos conseils d'experts et à notre soutien, vous pouvez optimiser votre génération de prospects et améliorer la performance globale de votre entreprise."
+            },
+            "section4": {
+                "title": "Solutions personnalisées pour<br/> les entreprises liées à l'immobilier",
+                "note": "Nous offrons des solutions personnalisées pour tous vos besoins liés à l'immobilier. Notre équipe d'experts a une connaissance approfondie du secteur et peut vous fournir une gamme de services, allant de la croissance de votre entreprise immobilière à l'optimisation de vos rendements en tant qu'investisseur. Nous prenons le temps de comprendre vos besoins spécifiques et de développer une solution personnalisée qui vous convienne le mieux."
+            },
+            "section5": {
+                "title": "Rejoindre nos partenaires",
+                "note": "Êtes-vous une compagnie d'assurance, une banque, une hypothèque, des meubles ou des travaux de rénovation ? Pour faire de la publicité avec nous, envoyez-nous un courriel à l'adresse suivante",
+                "button": "advertise@rehomeafrica.com"
+            }
+        },
+        "admindashboard": {
+            "sidenav": {
+                "users": "Utilisateurs",
+                "discount": "Remise",
+                "location": "Lieu",
+                "dashboard": "Tableau de bord",
+                "salesdb": "Recherche de clients",
+                "enterprisedb": "Recherche d'entreprise",
+                "customerrequest": "Demande du client",
+                "giveaway": "Cadeau",
+                "settings": "Paramètres",
+                "search": "Recherche",
+                "requests": "Demandes",
+                "dsarrequests": "DSAR"
+            },
+            "dashboard": {
+                "email": {
+                    "title": "E-mail",
+                    "button": "Envoyer un courriel de mise à jour des conditions générales",
+                    "broadcast": {
+                        "button": "Envoyer un message de diffusion",
+                        "title": "Message de diffusion",
+                        "agents": "Courtiers/développeurs/agents immobiliers",
+                        "agents_placeholder": "Sélectionnez une liste de comptes à diffuser",
+                        "submit": "Soumettre",
+                        "cancel": "Annuler"
+                    },
+                    "dialognote": "Cela enverra un courriel de masse à tous les Courtiers, agents immobiliers, promoteurs et clients sur la plateforme pour les informer que nos conditions générales ont été mises à jour. Ce processus ne peut pas être inversé !",
+                    "send": "Envoyer",
+                    "cancel": "Annuler",
+                    "deletewarning": "Cochez cette case si vous êtes vraiment sûr de vouloir envoyer cet e-mail."
+                },
+                "statistics": {
+                    "title": "Statistiques",
+                    "properties": "Propriétés",
+                    "totalprops": "Total des propriétés actives",
+                    "totalpubprops": "Total des propriétés publiées",
+                    "propsgrowth": "Taux de croissance des propriétés actives",
+                    "totalpropsamt": "Total des propriétés publiées Montant en espèces",
+                    "total": "Total",
+                    "table": {
+                        "cash_amount": "Montant en espèces",
+                        "amount_on_for_rent": "Propriétés à louer",
+                        "amount_on_for_sale": "Propriétés à vendre",
+                        "montant_sur_les_développements": "Propriétés hors plan",
+                        "amount_on_commercials": "Propriétés commerciales",
+                        "montant_sur_terres": "Terrains",
+                        "amount_on_houses": "Maisons",
+                        "montant_sur_appartements": "Appartements",
+                        "amount_on_sold": "Propriétés vendues",
+                        "amount_on_rented": "Propriétés louées"
+                    }
+                },
+                "leadsreport": {
+                    "title": "Rapport des prospects",
+                    "totals": "Totals",
+                    "agentleads": "Tableau des prospects de l'agent",
+                    "propertyleads": "Tableau des prospects immobiliers",
+                    "searchplaceholder": "Rechercher le nom du compte",
+                    "table": {
+                        "name": "Nom",
+                        "propertyform": "Formulaire de propriété",
+                        "caller": "Bouton d'appel",
+                        "contactform": "Formulaire de contact"
+                    }
+                }
+            },
+            "norecord": "Aucun enregistrement trouvé",
+            "addsupport": {
+                "title": "Ajouter un soutien",
+                "firstname": "Prénom",
+                "lastname": "Nom de famille",
+                "phone": "Téléphone",
+                "email": "E-mail",
+                "add": "Sauvegarde",
+                "cancel": "Annuler",
+                "error": "Tous les champs sont requis",
+                "success": "Demande créée avec succès"
+            },
+            "users": {
+                "usertypes": {
+                    "customer": "Acheteur/locataire",
+                    "agent": "Courtier",
+                    "realtor": "Immobilier",
+                    "developer": "Développeur",
+                    "support": "Soutien",
+                    "all": "Tous"
+                },
+                "searchplaceholder": "Recherche par nom, courriel ou téléphone",
+                "table": {
+                    "heading": {
+                        "name": "Nom",
+                        "email": "E-mail",
+                        "suspended": "Suspendu",
+                        "verified": "Vérifié",
+                        "deactivated": "Activé",
+                        "documents": "Documents",
+                        "deleted": "Supprimé",
+                        "cancel": "Annuler",
+                        "phone": "Numéro de téléphone",
+                        "type": "Type de propriété",
+                        "features": "Caractéristiques de la propriété",
+                        "size": "Taille de la propriété",
+                        "bed/bath": "Lit et salle de bain",
+                        "plots": "Parcelles",
+                        "locations": "Localisation des sites",
+                        "notes": "Notes",
+                        "budget": "Budgets",
+                        "status": "Statut"
+                    },
+                    "menu": {
+                        "restore": "Restaurer",
+                        "suspend": "Suspendre",
+                        "unverify": "Déverrouiller",
+                        "verify": "Vérifier",
+                        "activate": "Activer",
+                        "deactivate": "Désactiver",
+                        "delete": "Supprimer",
+                        "expand": "Voir profil",
+                        "broadcast": "Diffusion",
+                        "complete": "Complet",
+                        "view": "Vue"
+                    },
+                    "info": {
+                        "suspend": "La suspension empêche l'utilisateur de se connecter et d'accéder à son compte",
+                        "verify": "La vérification ajoute un badge de vérification ReHome à l'utilisateur",
+                        "deactivate": "La désactivation supprime les biens publiés des pages d'achat/location et de vente sur plan",
+                        "delete": "La suppression désactive le compte de l'utilisateur, la suppression doit être achevée 30 jours après, ce processus ne peut être inversé"
+                    },
+                    "question": "Êtes-vous sûr de vouloir ",
+                    "deletewarning": "Cette action ne peut être annulée",
+                    "suredelete": "Cochez cette case si vous êtes vraiment sûr de vouloir ",
+                    "savepersonal": "Sauvegarder les détails personnels",
+                    "savebusiness": "Enregistrer les détails de l'entreprise",
+                    "resetpassword": "Réinitialiser le mot de passe utilisateur",
+                    "checkemail": "Le lien de réinitialisation du mot de passe a été envoyé à l'adresse électronique de l'utilisateur",
+                    "ghanacard": "Carte Ghana",
+                    "businessdoc": "Document d'immatriculation de l'entreprise"
+                }
+            },
+            "discount": {
+                "add": "Ajouter une remise",
+                "edit": "Editer la remise",
+                "percent": "Pourcentage",
+                "generatecode": "Régénérer le code",
+                "table": {
+                    "heading": {
+                        "name": "Nom",
+                        "amount": "Montant",
+                        "code": "Code",
+                        "type": "Type",
+                        "start": "Date de début",
+                        "end": "Date de fin",
+                        "target": "Cible",
+                        "active": "Actif",
+                        "maxuse": "Utilisation maximale",
+                        "activateerror": "Impossible d'activer une remise dont la date est dépassée"
+                    },
+                    "menu": {
+                        "deactivate": "Désactiver",
+                        "activate": "Activer",
+                        "delete": "Supprimer",
+                        "edit": "Éditer"
+                    },
+                    "filter": {
+                        "subscription": "Abonnement",
+                        "sponsorship": "Parrainage",
+                        "search": "Recherche par nom ou par code",
+                        "active": "Réductions Actives"
+                    }
+                }
+            },
+            "location": {
+                "title": "Lieu",
+                "add": "Ajouter un lieu",
+                "edit": "Modifier le lieu",
+                "search": "Recherche par nom",
+                "table": {
+                    "heading": {
+                        "name": "Nom",
+                        "longitude": "Longitude",
+                        "latitude": "Latitude",
+                        "country": "Pays",
+                        "active": "Actif"
+                    }
+                },
+                "menu": {
+                    "deactivate": "Désactiver",
+                    "activate": "Activer",
+                    "delete": "Supprimer",
+                    "edit": "Editer",
+                    "setparent": "Définir le parent"
+                }
+            },
+            "subscription": {
+                "title": "Abonnement",
+                "name": "Nom du régime",
+                "code": "Code d'inscription",
+                "status": "Statut",
+                "start": "Date de début",
+                "end": "Date de fin",
+                "cancel": "Annuler l'inscription",
+                "save": "Mettre à jour l'abonnement",
+                "edit": "Modifier l'abonnement",
+                "amount": "Montant d'inscription",
+                "question": "Êtes-vous sûr de vouloir annuler l'abonnement de l'utilisateur?",
+                "no": "Non",
+                "yes": "Oui"
+            },
+            "addcustomerrequest": {
+                "savebtn": "Enregistrer",
+                "submitbtn": "Soumettre",
+                "addbtn": "Ajouter",
+                "completebtn": "Terminer",
+                "broadcastbtn": "Diffuser",
+                "error": "Tous les champs sont requis",
+                "property_type": "Type de propriété",
+                "cancel": "Annuler",
+                "close": "Fermer",
+                "firstname": "Prénom",
+                "lastname": "Nom de famille",
+                "phone": "Téléphone",
+                "email": "Email",
+                "title": "Demande de propriété",
+                "property_features": "Caractéristiques de la propriété",
+                "bedrooms": "Chambres à coucher",
+                "bathrooms": "Salles de bains",
+                "property_size": "Taille (pieds carrés)",
+                "min_budget": "Budget (Min)",
+                "max_budget": "Budget (Max)",
+                "locations": "Emplacements",
+                "plots": "Terrains",
+                "notes": "Note",
+                "contact_info": "Informations de contact",
+                "property_info": "Informations sur la propriété",
+                "budget_info": "Informations sur le budget",
+                "all": "Tous",
+                "broadcasted": "Diffusé",
+                "completed": "Terminé",
+                "open": "Ouvert",
+                "savefailed": "Échec de l'enregistrement de la demande de propriété du client",
+                "savesuccessful": "Demande de propriété du client sauvegardée",
+                "sendconfirmation": "Envoyer un courriel de confirmation",
+                "shortlet": "Êtes-vous intéressé par les shortlets?"
+            },
+            "giveaway": {
+                "title": "Cadeau",
+                "add": "Ajouter un cadeau",
+                "edit": "Editer le cadeau",
+                "search": "Recherche par nom/code",
+                "properties": "Sélectionner un bien",
+                "users": "sélectionner un courtier",
+                "or": "ou",
+                "table": {
+                    "heading": {
+                        "title": "Titre",
+                        "code": "Code",
+                        "description": "Description",
+                        "responses": "Réponses"
+                    }
+                },
+                "menu": {
+                    "edit": "Editer",
+                    "delete": "Supprimer",
+                    "export": "Exportation"
+                },
+                "popup": {
+                    "location": "Ville",
+                    "phone": "Numéro de téléphone",
+                    "duration": "Nombre de nuits",
+                    "error": "Veuillez remplir les champs",
+                    "exporterror": "Rien à exporter"
+                }
+            }
+        },
+        "salesdb": {
+            "searchplaceholder": "Recherche",
+            "edit": "Editer",
+            "email": "Courriel",
+            "columns": {
+                "firstname": "Prénom",
+                "lastname": "Nom de famille",
+                "title": "Titre",
+                "phonenumber": "Numéro de téléphone",
+                "email": "E-mail",
+                "address": "Adresse",
+                "age": "Âge",
+                "gender": "Genre",
+                "dob": "Date de naissance",
+                "status": "État civil",
+                "nationality": "Nationalité",
+                "companyname": "Nom de l'entreprise",
+                "industry": "Secteur d'activité",
+                "prohistory": "Parcours professionnel",
+                "linkedin": "Profil LinkedIn",
+                "twitter": "Identifiant Twitter",
+                "facebook": "Profil Facebook",
+                "instagram": "Identifiant Instagram",
+                "website": "Site web personnel",
+                "blog": "URL du blog/portfolio",
+                "education": "Formation académique",
+                "cert": "Certificats",
+                "hobbies": "Centres d'intérêt et loisirs",
+                "purchase": "Historique des achats",
+                "size": "Taille de l'entreprise",
+                "location": "Lieu de l'entreprise",
+                "department": "Département de l'entreprise",
+                "pcc": "Canal de communication préféré",
+                "pct": "Plage horaire de communication préférée",
+                "housing": "Préférences de logement",
+                "needs": "Besoins/Exigences spécifiques",
+                "events": "Événements/Conférences auxquels vous avez assisté",
+                "lead": "Source des prospects",
+                "rating": "Évaluation"
+            },
+            "emptyfield": "Le prénom, le nom et l'adresse électronique sont obligatoires"
+        },
+        "enterprisedb": {
+            "add": "Ajouter à la recherche d'entreprise",
+            "searchplaceholder": "Rechercher",
+            "columns": {
+                "name": "Nom",
+                "address": "Adresse",
+                "city": "Ville",
+                "state": "État",
+                "country": "Pays",
+                "postal_code": "Code postal",
+                "industry": "Industrie",
+                "email": "Email",
+                "phone_number": "Numéro de téléphone",
+                "fax_number": "Numéro de fax",
+                "description": "Description",
+                "year_established": "Année de création",
+                "annual_revenue": "Revenu annuel",
+                "employees_count": "Nombre d'employés",
+                "linkedIn": "URL LinkedIn",
+                "twitter": "URL Twitter",
+                "facebook": "URL Facebook",
+                "instagram": "URL Instagram",
+                "website": "Site web",
+                "contact_accuracy": "Précision du contact",
+                "contacts": "Contacts"
+            },
+            "emptyfield": "Le nom et l'email sont requis"
+        },
+        "rulesforuploading": {
+            "title": "Règles pour la publication de propriétés",
+            "note1": "Afin d'assurer une expérience utilisateur fluide et fiable, nous avons établi certaines règles et lignes directrices pour la publication de biens immobiliers.",
+            "note2": "Voici les règles à suivre lors de la publication de propriétés sur notre site :",
+            "p1": "1. Informations précises et complètes : Fournissez des informations précises et à jour sur la propriété, y compris son emplacement, sa taille, ses équipements et son prix. Assurez-vous que tous les détails sont présentés de manière claire et concise.",
+            "p2": "2. Images de haute qualité : Téléchargez des images de haute qualité qui représentent fidèlement la propriété. Les images doivent être bien éclairées, correctement cadrées et mettre en valeur les caractéristiques clés et les espaces de la propriété.",
+            "p3": "3. Vérification de la propriété : Ne répertoriez que les propriétés dont vous êtes légalement propriétaire ou pour lesquelles vous avez une autorisation appropriée pour les représenter.",
+            "p4": "4. Conformité aux exigences légales : Il est de votre responsabilité de vérifier que la propriété respecte toutes les exigences légales nécessaires.",
+            "p5": "5. Respect de la propriété intellectuelle : Ne téléchargez aucun contenu qui enfreint les droits de propriété intellectuelle d'autrui, y compris les matériaux protégés par le droit d'auteur ou les marques commerciales. Obtenez les autorisations nécessaires pour tout contenu protégé par le droit d'auteur utilisé dans l'annonce.",
+            "p6": "6. Contenu interdit : N'incluez aucun contenu discriminatoire, offensant, illégal ou qui enfreint nos conditions d'utilisation. Cela inclut le langage discriminatoire, le contenu explicite ou tout autre matériel pouvant être jugé inapproprié.",
+            "p7": "7. Mises à jour en temps opportun : Maintenez vos annonces immobilières à jour en indiquant rapidement les annonces vendues ou indisponibles sur la plateforme. Vérifiez et mettez régulièrement à jour vos annonces pour en assurer l'exactitude.",
+            "p8": "8. Conduite professionnelle : Interagissez avec les potentiels acheteurs ou locataires de manière professionnelle et respectueuse. Répondez rapidement aux demandes d'information et fournissez des informations précises sur les propriétés répertoriées.",
+            "p9": "9. Le non-respect de ces règles peut entraîner la suppression de l'annonce immobilière ou d'autres mesures appropriées conformément à nos politiques.",
+            "footnote1": "Si vous avez des questions ou avez besoin de plus de précisions sur les règles de publication de propriétés, n'hésitez pas à nous contacter à",
+            "footnote2": " Nous sommes là pour garantir une expérience positive aussi bien pour les annonceurs immobiliers que pour les utilisateurs de notre plateforme.",
+            "sign": "L'équipe ReHome"
+        },
+        "misc": {
+            "export": "Export"
+        },
+        "firsttimevisit": {
+            "title": "Bienvenue à ReHome!",
+            "note1": "Soyez le premier à être informé de nos options de paiement, des propriétés nouvellement inscrites, des offres de location et d'autres mises à jour.",
+            "note2": "Rejoignez notre liste exclusive de clients et obtenez des offres immobilières exclusives!",
+            "note3": "Rejoignez les experts en investissement alors qu'ils partagent des conseils d'investissement éprouvés. Abonnez-vous dès maintenant!",
+            "label": "S'abonner à notre lettre d'information.",
+            "button": "Continuer"
+        },
+        "dsar": {
+            "title": "Formulaire de demande d'accès des personnes concernées",
+            "description": "Veuillez remplir les informations ci-dessous. L'administrateur de ReHome sera informé de votre demande et aura besoin d'un délai approprié pour y répondre.",
+            "form": {
+                "name": "Votre nom",
+                "name_placeholder": "Entrez votre nom",
+                "email": "Quelle adresse e-mail utilisez-vous pour accéder au site Web / à l'application ci-dessus ?",
+                "email_placeholder": "Entrez votre adresse e-mail",
+                "submitter": "Vous soumettez cette demande en tant que",
+                "submitter_as_person": "La personne, ou le parent / tuteur de la personne, dont le nom apparaît ci-dessus.",
+                "submitter_as_entity": "Un courtier autorisé par le consommateur à faire cette demande en leur nom.",
+                "law": "En vertu de laquelle loi faites-vous cette demande ?",
+                "request": "Je soumets une demande à ___________",
+                "information_gathering_label": "Savoir quelles informations sont collectées auprès de moi",
+                "delete_information_label": "Faire supprimer mes informations",
+                "prevent_thirdparty_data_sales_label": "Refuser que mes données soient vendues à des tiers",
+                "accept_data_sales_label": "Accepter la vente de mes données personnelles",
+                "access_information_label": "Accéder à mes informations personnelles",
+                "update_information_label": "Corriger des informations incorrectes",
+                "get_information_label": "Recevoir une copie de mes informations personnelles",
+                "prevent_advertisement_purposes_label": "Refuser que mes données soient partagées à des fins de publicité comportementale inter-contextuelle",
+                "limit_information_disclosure_label": "Limiter l'utilisation et la divulgation de mes informations personnelles sensibles",
+                "other_label": "Autre (veuillez préciser dans la zone de commentaire ci-dessous)",
+                "note": "Veuillez laisser des détails concernant votre demande d'action ou votre question.",
+                "note_placeholder": "Veuillez laisser des détails concernant votre demande d'action ou votre question.",
+                "accurate_information_confirmations_label": "Sous peine de parjure, je déclare que toutes les informations ci-dessus sont vraies et exactes.",
+                "deletion_risk_confirmations_label": "Je comprends que la suppression ou la restriction de mes données personnelles est irréversible et peut entraîner la résiliation des services avec ReHome.",
+                "validation_confirmations_label": "Je comprends que je devrai valider ma demande par e-mail et que je pourrais être contacté afin de compléter la demande.",
+                "submit": "Soumettre",
+                "confirm": "Je confirme que"
+            },
+            "submitsuccess": "DSAR envoyé avec succès",
+            "admin": {
+                "pending": "En attente",
+                "processing": "Traitement",
+                "completed": "Terminé",
+                "paused": "En pause",
+                "placeholder": "Saisir l'ID DSAR",
+                "notfound": "ID introuvable",
+                "submit": "Soumettre"
+            }
+        }
+    }
+}
